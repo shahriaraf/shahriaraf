@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">Hi there! 👋 I'm a passionate Frontend Web Developer with a strong focus on building user-friendly and visually appealing web applications. I specialize in React.js, JavaScript, HTML, and CSS, and I have experience integrating backend services like Firebase and REST APIs to create dynamic, responsive experiences.<br><br>I enjoy crafting clean, maintainable code and optimizing performance for the best user experience. Currently, I'm actively looking for opportunities where I can contribute my skills and grow as a developer.<br><br>🔹 Skills: React.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS, Firebase, API Integration<br><br>🔹 Linkedin Profile: https://www.linkedin.com/in/shoumo-shahriar-araf<br><br>🔹 Contact: shahriaraf01@gmail.com<br><br>Let’s connect and build something amazing!</p>
+<p align="left">Hi there! 👋 I'm a passionate Frontend Web Developer with a strong focus on building user-friendly and visually appealing web applications. I specialize in React.js, JavaScript, HTML, and CSS, and I have experience integrating backend services like Firebase and REST APIs to create dynamic, responsive experiences.<br><br>I enjoy crafting clean, maintainable code and optimizing performance for the best user experience. Currently, I'm actively looking for opportunities where I can contribute my skills and grow as a developer.<br><br>🔹 Skills: React.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS, Firebase, API Integration<br><br>🔹 Linkedin Profile: https://www.linkedin.com/in/shoumo-shahriar-araf<br><br>🔹 Contact: 01726649175 <br><br>Let’s connect and build something amazing!</p>
 
 ###
 
