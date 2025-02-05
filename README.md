@@ -14,7 +14,7 @@
 </div>
 
 ###
-<h3 align="left">Comfortable With</h3>
+<h3 align="center">Comfortable With</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -44,7 +44,7 @@
 <p align="left">Hi there! 👋 I'm a passionate Frontend Web Developer with a strong focus on building user-friendly and visually appealing web applications. I specialize in React.js, JavaScript, HTML, and CSS, and I have experience integrating backend services like Firebase and REST APIs to create dynamic, responsive experiences.<br><br>I enjoy crafting clean, maintainable code and optimizing performance for the best user experience. Currently, I'm actively looking for opportunities where I can contribute my skills and grow as a developer.<br><br>🔹 Skills: React.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS, Firebase, API Integration<br><br>🔹 Contact: 01726649175 <br><br>Let’s connect and build something amazing!</p>
 
 ###
-<h3 align="left">Reach Me Out</h3>
+<h3 align="center">Reach Me Out</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/shoumo-shahriar-araf-022503331/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
