@@ -1,63 +1,131 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/CswYJtFw/1738694968267.png"  />
-</div>
-
-###
-
-<h2 align="left">Hi !<br>  My name is Shoumo Shahriar Araf and I'm a Frontend Web Developer.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" height="145" alt="languages graph"  />
-</div>
-
-###
-<h3 align="center">Comfortable With</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="center">About Me</h3>
-
-###
-
-<p align="left">Hi there! 👋 I'm a passionate Frontend Web Developer with a strong focus on building user-friendly and visually appealing web applications. I specialize in React.js, JavaScript, HTML, and CSS, and I have experience integrating backend services like Firebase and REST APIs to create dynamic, responsive experiences.<br><br>I enjoy crafting clean, maintainable code and optimizing performance for the best user experience. Currently, I'm actively looking for opportunities where I can contribute my skills and grow as a developer.<br><br>🔹 Skills: React.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS, Firebase, API Integration<br><br>🔹 Contact: 01726649175 <br><br>Let’s connect and build something amazing!</p>
-
-###
-<h3 align="center">Reach Me Out</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/shoumo-shahriar-araf-022503331/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/shahriar.araf.3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  <!-- Dynamic Typing Effect Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=356BF8&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Shoumo+Shahriar+Araf;Frontend+Web+Developer;I+Build+Cool+Stuff." alt="Typing SVG" />
   </a>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shahriaraf/count.svg?"  />
+  <!-- Professional Banner / Illustration -->
+  <!-- You can replace this with your specific banner if you have one, or keep this generic coding illustration -->
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e26487133.5635676ee5263.gif" height="200" width="100%" style="object-fit: cover;" />
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <p>
+    <b>Frontend Developer</b> with a passion for building responsive, user-friendly web applications.<br> 
+    Specializing in <b>React.js</b> and the MERN ecosystem.
+  </p> 
+  
+  <!-- Social Links with Badges -->
+  <a href="https://www.linkedin.com/in/shoumo-shahriar-araf-022503331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/shahriar.araf.3">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<!-- 🛠 TECH STACK SECTION -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML5
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS3
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 📊 GITHUB STATS SECTION (Unified Theme) -->
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <!-- Contribution Graph (Snake Animation Placeholder - See instructions below) -->
+  <img src="https://github.com/shahriaraf/shahriaraf/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriaraf&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="streak graph" />
+</div>
+
+<br/>
+
+<!-- 📄 ABOUT ME SECTION -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a passionate <b>Frontend Web Developer</b> based in Bangladesh. I focus on creating interactive experiences and optimized clean code.<br>
+  Currently open for opportunities to contribute to exciting projects!
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>💬 <b>Ask me about:</b></td>
+      <td>React, UI/UX Implementation, State Management</td>
+    </tr>
+    <tr>
+      <td>📫 <b>Contact:</b></td>
+      <td>01726649175</td>
+    </tr>
+    <tr>
+      <td>🔭 <b>Currently Learning:</b></td>
+      <td>Next.js & TypeScript</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 👁️ VISITOR COUNTER -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shahriaraf/count.svg?" alt="visitor count" />
+</div>
