@@ -75,8 +75,9 @@
 </div>
 
 <!-- STREAK STATS (FIXED: Switched to Stable Server) -->
+<!-- 📈 LIVE CODING WAVE (Stable & Jaw-Dropping) -->
 <div align="center">
-  <img src="https://readme-streak-stats.demolab.com/?user=shahriaraf&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&theme=react-dark&bg_color=0d1117&hide_border=true&line=fe428e&color=f8d847&area=true" width="100%" />
 </div>
 
 <br/>
