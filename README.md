@@ -69,23 +69,27 @@
 <br/>
 
 <!-- 📊 STATS GRAPHS (FIXED: Removed timeout-causing parameters) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-</div>
+<!-- 📊 DATA VISUALIZATION DASHBOARD -->
 <h2 align="center">
-  <span style="color:#ff0055">📊 ANALYTICS_LOGS</span>
+  <span style="color:#ff0055">📊 ANALYTICS_DASHBOARD</span>
 </h2>
+
+<div align="center">
+  <!-- PIE CHART: Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriaraf&theme=algolia" width="45%" />
+  
+  <!-- PIE CHART: Commit Time (Morning/Night) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriaraf&theme=algolia" width="45%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&bg_color=0d1117" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0d1117" height="180" />
 </div>
 <!-- STREAK STATS (FIXED: Switched to Stable Server) -->
-<!-- 📈 LIVE CODING WAVE (Stable & Jaw-Dropping) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&theme=react-dark&bg_color=0d1117&hide_border=true&line=fe428e&color=f8d847&area=true" width="100%" />
-</div>
+
 
 <br/>
 <hr/>
