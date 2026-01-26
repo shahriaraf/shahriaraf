@@ -73,7 +73,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
+<h2 align="center">
+  <span style="color:#ff0055">📊 ANALYTICS_LOGS</span>
+</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0d1117" height="180" />
+</div>
 <!-- STREAK STATS (FIXED: Switched to Stable Server) -->
 <!-- 📈 LIVE CODING WAVE (Stable & Jaw-Dropping) -->
 <div align="center">
