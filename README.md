@@ -1,53 +1,66 @@
-<!-- 🖥️ SYSTEM MONITOR HEADER -->
+<!-- 🖥️ SYSTEM BOOT HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SrHQwj8qS9Q8D4c9s6/giphy.gif" width="100%" height="150" style="object-fit:cover" />
+  <!-- Stable Cyberpunk Header -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" />
   
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=30&duration=2000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=INITIATING_SEQUENCE...;SUBJECT:+SHOUMO_SHAHRIAR_ARAF;STACK:+MERN_CORE_SYSTEMS;TARGET:+GLOBAL_DOMINATION" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=28&duration=2000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=SYSTEM_STATUS:+ONLINE;OPERATOR:+SHOUMO_SHAHRIAR_ARAF;MISSION:+BUILDING_SCALABLE_WEB_APPS;ACCESS_LEVEL:+ROOT_ADMIN_%E2%9F%A2" alt="Typing SVG" />
   </a>
-</div>
-
-<!-- 🔮 MATRIX RAIN SEPARATOR -->
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="20" style="object-fit:cover" />
 </div>
 
 <br/>
 
-<!-- 📈 THE "JAW DROPPER": ROLLING WAVE ACTIVITY GRAPH -->
-<!-- This replaces the snake with a live "Heartbeat" monitor of your code -->
+<!-- 📈 LIVE CODE WAVEFORM (The "Jaw Dropper") -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eHh6aGJuaTU1Z3B5ZWR4Y2h6eHR5Z3h6eHh6aGJuaTU1Z3B5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLnTeBXc8C8XQ/giphy.gif" width="30">
-  <span style="color:#00FF99"> LIVE_NETWORK_TRAFFIC </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eHh6aGJuaTU1Z3B5ZWR4Y2h6eHR5Z3h6eHh6aGJuaTU1Z3B5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLnTeBXc8C8XQ/giphy.gif" width="30">
+  <span style="color:#00FF99">⚡ LIVE_SYSTEM_ACTIVITY ⚡</span>
 </h2>
 
 <div align="center">
+  <!-- This graph updates automatically. No setup needed. -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FF99&color=bd5eff&area=true" width="100%" />
 </div>
 
 <br/>
 
-<!-- ☢️ CORE REACTOR (Skills) -->
+<!-- 🆔 OPERATOR ID -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&width=100%" />
+  <br/>
+  <p style="color: #bd5eff; font-family: monospace;">
+    <b>Full Stack Engineer</b> based in Bangladesh. <br/>
+    Specializing in React ecosystem and High-Performance Backend Systems.
+  </p>
+  
+  <a href="https://www.linkedin.com/in/shoumo-shahriar-araf-022503331/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:shahriaraf01@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ☢️ WEAPONRY (Skills) -->
 <h2 align="center">
-  <span style="color:#bd5eff">⚡ REACTOR_CORE_MODULES ⚡</span>
+  <span style="color:#bd5eff">🛠️ ARSENAL_MODULES</span>
 </h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/RsadW5A361e6c/giphy.gif" width="50"><br/>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+        <b><font color="#00FF99">FRONTEND</font></b><br/><br/>
         <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,bootstrap&theme=dark&perline=3" />
       </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/RsadW5A361e6c/giphy.gif" width="50"><br/>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+        <b><font color="#bd5eff">BACKEND</font></b><br/><br/>
         <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma&theme=dark&perline=3" />
       </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/RsadW5A361e6c/giphy.gif" width="50"><br/>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+        <b><font color="#ff0055">DEVOPS</font></b><br/><br/>
         <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,postman,figma&theme=dark&perline=3" />
       </td>
     </tr>
@@ -56,40 +69,31 @@
 
 <br/>
 
-<!-- 📊 DATA VISUALIZATION DASHBOARD -->
+<!-- 📊 DATA DASHBOARD -->
 <h2 align="center">
-  <span style="color:#ff0055">📊 ANALYTICS_DASHBOARD</span>
+  <span style="color:#ff0055">📊 ANALYTICS_LOGS</span>
 </h2>
-
-<div align="center">
-  <!-- PIE CHART: Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriaraf&theme=algolia" width="45%" />
-  
-  <!-- PIE CHART: Commit Time (Morning/Night) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriaraf&theme=algolia" width="45%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&bg_color=0d1117" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0d1117" height="180" />
 </div>
 
-<!-- 🏆 TROPHY CABINET -->
+<br/>
+
+<!-- 🏆 ACHIEVEMENT UNLOCKED -->
 <div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shahriaraf&theme=alduin&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahriaraf&theme=alduin&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 <br/>
 <hr/>
 
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=END_OF_LINE&fontSize=25&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=SESSION_TERMINATED&fontSize=25&fontAlignY=40" width="100%" />
   
-  <!-- VISITOR TERMINAL -->
   <br/>
-  <code>VISITOR_COUNT_LOG:</code>
+  <code>VISITOR_COUNT:</code>
   <img src="https://komarev.com/ghpvc/?username=shahriaraf&style=plastic&color=green" alt="visitor count" />
 </div>
