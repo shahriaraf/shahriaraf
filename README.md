@@ -33,7 +33,7 @@
 <br/>
 <hr/>
 
-<!-- 🛠 TECH STACK (ALIGNED WITH CV) -->
+<!-- 🛠 TECH STACK -->
 <h2 align="center">🚀 Technical Arsenal</h2>
 
 <div align="center">
@@ -54,8 +54,8 @@
 <!-- 🐍 SNAKE ANIMATION -->
 <h2 align="center">⚡ Contribution History</h2>
 <div align="center">
-  <!-- NOTE: This updates every 24 hours via GitHub Action -->
-  <img src="https://github.com/shahriaraf/shahriaraf/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <!-- I updated this link to use 'raw' so it works immediately after the Action runs -->
+  <img src="https://github.com/shahriaraf/shahriaraf/raw/output/github-contribution-grid-snake.svg" alt="Wait for Workflow to Run" width="100%" />
 </div>
 
 <br/>
@@ -68,13 +68,13 @@
 
 <br/>
 
-<!-- 📊 STATS GRAPHS -->
+<!-- 📊 STATS GRAPHS (FIXED: Removed timeout-causing parameters) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
 
-<!-- STREAK STATS (Fixed Link) -->
+<!-- STREAK STATS (FIXED: Switched to Stable Server) -->
 <div align="center">
   <img src="https://readme-streak-stats.demolab.com/?user=shahriaraf&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="streak graph" />
 </div>
@@ -87,7 +87,8 @@
   <table>
     <tr>
       <td><b>👀 Profile Views:</b></td>
-      <td><img src="https://profile-counter.glitch.me/shahriaraf/count.svg?" alt="visitor count" /></td>
+      <!-- FIXED: Switched to Komarev (More reliable) -->
+      <td><img src="https://komarev.com/ghpvc/?username=shahriaraf&style=flat-square&color=blueviolet" alt="visitor count" /></td>
     </tr>
     <tr>
       <td><b>🔭 Working On:</b></td>
