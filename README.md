@@ -1,178 +1,179 @@
-<!-- HEADER & BANNER -->
+<!-- ============================================= -->
+<!--  BANNER PLACEHOLDER                          -->
+<!--  Replace the src below with your own banner -->
+<!--  image (e.g. assets/banner.png) once ready  -->
+<!-- ============================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a2e2f,100:8b4a4c&height=280&section=header&text=Shoumo%20Shahriar%20Araf&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%26%20Next.js%20Specialist&descAlignY=55&descAlign=50&descColor=f2d9d9" width="100%" alt="Header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=5A2E2F&center=true&vCenter=true&width=600&lines=Building+Devnasa's+Core+Products+%F0%9F%9A%80;Next.js+%2B+Nest.js+%2B+MongoDB;Turning+Ideas+Into+Scalable+Apps;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
-  </a>
+  <img src="assets/banner.png" alt="Shoumo Shahriar Araf - Banner" width="100%" />
 </div>
 
 <br/>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5A2E2F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Devnasa+Technologies;Next.js+%26+React+Specialist;MERN+Stack+%7C+Clean+Architecture;I+turn+coffee+into+code+(and+bugs+into+features)" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+
 <!-- ABOUT SECTION -->
+<h2 align="center">About Me</h2>
+
 <table align="center" width="100%">
-  <tr>
-    <td width="100%">
-      <h3 align="center">👋 About Me</h3>
-      <p align="center">
-        I'm <b>Shoumo</b>, a Full Stack Developer based in Sylhet, Bangladesh, focused on building<br/>
-        production-ready web applications with <b>Next.js, React, Node.js, and Nest.js</b>.<br/><br/>
-        Currently pursuing my <b>B.Sc. in CSE at Leading University</b> while working as a<br/>
-        Full Stack Developer at <b>Devnasa Technologies</b>, where I build and ship real products end to end.<br/><br/>
-        I care about clean architecture, fast performance, and writing code that scales.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="100%">
+
+I'm **Shoumo Shahriar Araf** — a Full Stack Developer from Sylhet, Bangladesh, who builds web applications with **Next.js, React, Node.js, and Nest.js**, and occasionally argues with TypeScript until it agrees with me.
+
+I work at **Devnasa Technologies**, building production-grade SaaS products, and I'm pursuing my **B.Sc. in Computer Science & Engineering** at Leading University. Somewhere between deadlines and `git commit -m "fix"`, I try to write code that's clean, scalable, and doesn't break at 2 AM.
+
+- 🏢 Currently building **Full Stack SaaS Applications** at Devnasa Technologies
+- 🎓 B.Sc. in CSE, Leading University
+- 🌱 Currently leveling up in **system design** and **Nest.js microservices**
+- ⚡ Fun fact: my code works on the first try... sometimes
+- 📫 Reach me at **shahriaraf01@gmail.com**
+
+</td>
+</tr>
 </table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shoumo-shahriar-araf-022503331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5a2e2f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-5A2E2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shahriaraf01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5a2e2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-5A2E2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://shahriaraf.github.io/">
-     <img src="https://img.shields.io/badge/Portfolio-5a2e2f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-5A2E2F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 <br/>
 <hr/>
 
-<!-- 🛠 TECH STACK -->
-<h2 align="center">🚀 Technical Arsenal</h2>
+<!-- TECH STACK -->
+<h2 align="center">Technical Arsenal</h2>
 
 <div align="center">
 
-  <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,redux,tailwind,bootstrap" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,redux,tailwind,bootstrap" />
 
-  <br/><br/>
+<br/><br/>
 
-  <h4>Backend & Database</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma" />
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma" />
 
-  <br/><br/>
+<br/><br/>
 
-  <h4>Tools & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,firebase,postman,figma" />
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,firebase,postman,figma" />
 
-  <br/>
+<br/><br/>
 
-  <p><b>Also experienced with:</b> Shadcn UI, Framer Motion, GSAP, WebSockets & JWT</p>
+**Also experienced with:** Shadcn UI · Framer Motion · GSAP · WebSockets · JWT Authentication
+
 </div>
 
 <br/>
 <hr/>
 
-<!-- 🌟 FEATURED PROJECTS -->
-<h2 align="center">🌟 Featured Projects</h2>
+<!-- FEATURED PROJECTS -->
+<h2 align="center">Featured Projects</h2>
 
 <table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Project Name One</h3>
-      <p>
-        Short description of what this project does and the problem it solves.
-        Mention the impact, scale, or users if relevant.
-      </p>
-      <p>
-        <b>Tech:</b> Next.js · Nest.js · MongoDB · Tailwind CSS
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-5a2e2f?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Source%20Code-5a2e2f?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 Project Name Two</h3>
-      <p>
-        Short description of what this project does and the problem it solves.
-        Mention the impact, scale, or users if relevant.
-      </p>
-      <p>
-        <b>Tech:</b> React · Express · PostgreSQL · Prisma
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-5a2e2f?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Source%20Code-5a2e2f?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Project Name Three</h3>
-      <p>
-        Short description of what this project does and the problem it solves.
-        Mention the impact, scale, or users if relevant.
-      </p>
-      <p>
-        <b>Tech:</b> Next.js · MongoDB · Redux · Firebase
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-5a2e2f?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Source%20Code-5a2e2f?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 Project Name Four</h3>
-      <p>
-        Short description of what this project does and the problem it solves.
-        Mention the impact, scale, or users if relevant.
-      </p>
-      <p>
-        <b>Tech:</b> Nest.js · TypeScript · Docker · MySQL
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-5a2e2f?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Source%20Code-5a2e2f?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Project Name 1](https://github.com/shahriaraf/REPLACE_ME)
+
+Short description of what the project does and the problem it solves. Mention the core feature that makes it stand out.
+
+**Stack:** Next.js · Node.js · MongoDB · Tailwind
+
+[🔗 Live Demo](https://REPLACE_ME) · [📂 Source Code](https://github.com/shahriaraf/REPLACE_ME)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Project Name 2](https://github.com/shahriaraf/REPLACE_ME)
+
+Short description of what the project does and the problem it solves. Mention the core feature that makes it stand out.
+
+**Stack:** React · Express · PostgreSQL · Prisma
+
+[🔗 Live Demo](https://REPLACE_ME) · [📂 Source Code](https://github.com/shahriaraf/REPLACE_ME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Project Name 3](https://github.com/shahriaraf/REPLACE_ME)
+
+Short description of what the project does and the problem it solves. Mention the core feature that makes it stand out.
+
+**Stack:** Nest.js · React · MySQL · Docker
+
+[🔗 Live Demo](https://REPLACE_ME) · [📂 Source Code](https://github.com/shahriaraf/REPLACE_ME)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Project Name 4](https://github.com/shahriaraf/REPLACE_ME)
+
+Short description of what the project does and the problem it solves. Mention the core feature that makes it stand out.
+
+**Stack:** Next.js · Firebase · Tailwind · Framer Motion
+
+[🔗 Live Demo](https://REPLACE_ME) · [📂 Source Code](https://github.com/shahriaraf/REPLACE_ME)
+
+</td>
+</tr>
 </table>
 
 <br/>
 <hr/>
 
-<!-- 📊 ANALYTICS -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- CONTRIBUTION GRAPH (auto-updated by GitHub Action) -->
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=5a2e2f&icon_color=5a2e2f&text_color=333333&ring_color=5a2e2f" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=5a2e2f&text_color=333333" height="180" />
+  <img src="assets/contribution-graph.svg" alt="Contribution Graph" width="100%" />
+</div>
+
+<p align="center">
+  <sub>This graph updates automatically every day via a GitHub Action.</sub>
+</p>
+
+<br/>
+<hr/>
+
+<!-- ANALYTICS DASHBOARD -->
+<h2 align="center">Analytics Dashboard</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=5a2e2f&icon_color=5a2e2f&text_color=c9c9c9&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaraf&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=5a2e2f&text_color=c9c9c9&bg_color=00000000" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriaraf&theme=default&hide_border=true&background=ffffff&ring=5a2e2f&fire=5a2e2f&currStreakLabel=5a2e2f" height="170" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&theme=minimal&bg_color=ffffff&color=5a2e2f&line=5a2e2f&point=8b4a4c&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriaraf&theme=transparent&hide_border=true&background=00000000&ring=5a2e2f&fire=5a2e2f&currStreakLabel=5a2e2f" height="160" alt="streak graph" />
 </div>
 
 <br/>
+<hr/>
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2 align="center">⚡ Contribution Activity</h2>
+<!-- TROPHIES -->
+<h2 align="center">Achievements</h2>
 <div align="center">
-  <img src="https://github.com/shahriaraf/shahriaraf/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<br/>
-
-<!-- 🏆 TROPHIES -->
-<h2 align="center">🏆 Achievements</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahriaraf&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahriaraf&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,PullRequest,Repositories,Followers,MultiLanguage" />
 </div>
 
 <br/>
@@ -190,17 +191,8 @@
       <td>Full Stack SaaS Applications at Devnasa Technologies</td>
     </tr>
     <tr>
-      <td><b>🌱 Currently Exploring</b></td>
-      <td>System Design & Scalable Backend Architecture</td>
-    </tr>
-    <tr>
-      <td><b>💬 Open To</b></td>
-      <td>Freelance Projects, Collaborations & Internships</td>
+      <td><b>🤝 Open To</b></td>
+      <td>Freelance projects, collaborations, and full-time opportunities</td>
     </tr>
   </table>
-
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a2e2f,100:8b4a4c&height=100&section=footer" width="100%" />
-
-  <i>Thanks for visiting — let's build something great together.</i>
 </div>
