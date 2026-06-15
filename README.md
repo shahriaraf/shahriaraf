@@ -1,5 +1,5 @@
 <!-- BANNER SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<img src="YOUR_BANNER_SVG_URL" width="100%" alt="Shahriar Araf Banner" />
+<img src="https://i.ibb.co.com/rGvfnWqC/Gemini-Generated-Image-x78ckx78ckx78ckx.png" alt="Gemini-Generated-Image-x78ckx78ckx78ckx" border="0">
 
 <div align="center">
 
