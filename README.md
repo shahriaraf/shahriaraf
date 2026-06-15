@@ -41,21 +41,21 @@
 
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/html5/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/css3/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redux/000000" width="60" />
+  <img src="https://cdn.simpleicons.org/redux/ffffff" width="60" />
 </p>
 
 
