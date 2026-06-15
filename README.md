@@ -106,13 +106,14 @@
 
 ## 🤝 Connect With Me
 
-<div align="center" border="2px">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriaraf)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahriaraf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shahriaraf.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shahriaraf)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shahriaraf)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shahriaraf">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117">
+  </a>
+  <a href="https://twitter.com/shahriaraf">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117&color=0D1117">
+  </a>
+  <a href="https://facebook.com/shahriaraf">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117&color=0D1117">
+  </a>
+</p>
