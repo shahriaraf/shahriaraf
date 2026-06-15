@@ -137,7 +137,7 @@
     <td width="70%" style="border: none;">
       <h2>Lead Unity</h2>
       <p style="font-size:16px; line-height:1.8;">
-        Short description of this project and the problem it solves. Explain what makes it useful or unique.
+       A project management app to manage submission, users, and different kind of settings. It's currently in use in my University. 
       </p>
       <p>
         🔗 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">GitHub Repo</a>
