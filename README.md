@@ -12,7 +12,7 @@
 ---
 
 <!-- KNOW ABOUT ME SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<img src="YOUR_KNOW_ABOUT_ME_SVG_URL" width="100%" alt="Know About Me" />
+<img src="https://i.ibb.co.com/hJj7v8Bv/arafsdfs.png" alt="arafsdfs" border="0">
 
 ---
 
