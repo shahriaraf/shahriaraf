@@ -20,10 +20,10 @@
 
 <table>
   <tr>
-    <td width="40%">
-<img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview" border="0">
+    <td width="50%">
+<img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview">
     </td>
-    <td width="60%">
+    <td width="50%">
 
 <h1>Hey, I’m Shoumo Shahriar Araf</h1>
 
