@@ -48,7 +48,7 @@
       <p>
         <img src="https://cdn.simpleicons.org/html5/ffffff" width="50" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/css3/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/css/ffffff" width="50" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/javascript/ffffff" width="50" />
         &nbsp;&nbsp;
@@ -80,6 +80,7 @@
         <img src="https://cdn.simpleicons.org/firebase/ffffff" width="50" />
       </p>
     </td>
+  </br>
 
   </tr>
   <!-- ROW 2 -->
