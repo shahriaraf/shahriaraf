@@ -12,7 +12,10 @@
 ---
 
 <!-- KNOW ABOUT ME SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<img src="https://i.ibb.co.com/hJj7v8Bv/arafsdfs.png" alt="arafsdfs" border="0">
+<img 
+  src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" 
+  style="width: 100%; max-width: 100%; height: auto; display: block;" 
+/>
 
 ---
 
