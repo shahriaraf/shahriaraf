@@ -98,7 +98,7 @@
 
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/ffffff/shahriaraf"
+    src="https://ghchart.rshah.org/a855f7/shahriaraf"
     alt="Contribution Graph"
     width="100%"
   />
