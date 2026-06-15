@@ -3,9 +3,9 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/shahriararaf?style=flat-square&logo=github&labelColor=000000&color=000000&label=⭐%20Stars)](https://github.com/shahriararaf?tab=repositories)
-[![GitHub Followers](https://img.shields.io/github/followers/shahriararaf?style=flat-square&logo=github&labelColor=000000&color=000000&label=👥%20Followers)](https://github.com/shahriararaf?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=shahriararaf&style=flat-square&color=000000&label=👁️%20Views)](https://github.com/shahriararaf)
+[![GitHub Stars](https://img.shields.io/github/stars/shahriaraf?style=flat-square&logo=github&labelColor=000000&color=000000&label=⭐%20Stars)](https://github.com/shahriaraf?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/shahriaraf?style=flat-square&logo=github&labelColor=000000&color=000000&label=👥%20Followers)](https://github.com/shahriaraf?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=shahriaraf&style=flat-square&color=000000&label=👁️%20Views)](https://github.com/shahriaraf)
 
 </div>
 
@@ -52,26 +52,26 @@
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
 
-### 🔗 [Project Name One](https://github.com/shahriararaf/project-one)
+### 🔗 [Project Name One](https://github.com/shahriaraf/project-one)
 > Short description of this project and the problem it solves.
 
-![Stars](https://img.shields.io/github/stars/shahriararaf/project-one?style=flat-square&labelColor=000000&color=000000)
-![Forks](https://img.shields.io/github/forks/shahriararaf/project-one?style=flat-square&labelColor=000000&color=000000)
-![Language](https://img.shields.io/github/languages/top/shahriararaf/project-one?style=flat-square&labelColor=000000&color=000000)
+![Stars](https://img.shields.io/github/stars/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000)
+![Forks](https://img.shields.io/github/forks/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000)
+![Language](https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000)
 
-### 🔗 [Project Name Two](https://github.com/shahriararaf/project-two)
+### 🔗 [Project Name Two](https://github.com/shahriaraf/project-two)
 > Short description of this project and the problem it solves.
 
-![Stars](https://img.shields.io/github/stars/shahriararaf/project-two?style=flat-square&labelColor=000000&color=000000)
-![Forks](https://img.shields.io/github/forks/shahriararaf/project-two?style=flat-square&labelColor=000000&color=000000)
-![Language](https://img.shields.io/github/languages/top/shahriararaf/project-two?style=flat-square&labelColor=000000&color=000000)
+![Stars](https://img.shields.io/github/stars/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000)
+![Forks](https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000)
+![Language](https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000)
 
-### 🔗 [Project Name Three](https://github.com/shahriararaf/project-three)
+### 🔗 [Project Name Three](https://github.com/shahriaraf/project-three)
 > Short description of this project and the problem it solves.
 
-![Stars](https://img.shields.io/github/stars/shahriararaf/project-three?style=flat-square&labelColor=000000&color=000000)
-![Forks](https://img.shields.io/github/forks/shahriararaf/project-three?style=flat-square&labelColor=000000&color=000000)
-![Language](https://img.shields.io/github/languages/top/shahriararaf/project-three?style=flat-square&labelColor=000000&color=000000)
+![Stars](https://img.shields.io/github/stars/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000)
+![Forks](https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000)
+![Language](https://img.shields.io/github/languages/top/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000)
 
 ---
 
@@ -79,11 +79,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriararaf&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&count_private=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&count_private=true&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriararaf&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shahriararaf&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahriaraf&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriararaf&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&custom_title=Contribution%20Graph)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -103,11 +103,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriararaf)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahriararaf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shahriararaf.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriaraf)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahriaraf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shahriaraf.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shahriararaf)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shahriararaf)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shahriaraf)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shahriaraf)
 
 </div>
