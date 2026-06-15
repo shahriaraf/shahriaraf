@@ -14,8 +14,6 @@
 <!-- KNOW ABOUT ME SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <h1 align="center">Know About Me</h1>
 
-<br/>
-
 <div align="center">
 
 <table style="border: none; border-collapse: collapse;">
