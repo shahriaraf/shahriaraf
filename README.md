@@ -12,7 +12,7 @@
 ---
 
 <!-- KNOW ABOUT ME SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<h2 align="center">Know About Me</h2>
+<h1 align="center">Know About Me</h1>
 
 <br/>
 
@@ -20,16 +20,25 @@
 
 <table>
   <tr>
-    <td>
-<img src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" width="280px" />
+    <td width="40%">
+      <img 
+        src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" 
+        width="380px" 
+      />
     </td>
-    <td>
-### Hey, I’m Shoumo Shahriar Araf
+    <td width="60%">
 
+<h1>Hey, I’m Shoumo Shahriar Araf</h1>
+
+<p style="font-size:18px; line-height:1.6;">
 A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
+</p>
 
+<p style="font-size:18px; line-height:1.6;">
 Outside coding, I’m usually either deep in projects or gaming to reset my brain.
+</p>
     </td>
+
   </tr>
 </table>
 
