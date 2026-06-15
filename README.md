@@ -35,49 +35,70 @@
   </tr>
 </table>
 
-<h1 align="center">Skills</h1>
-
-<!-- ================= FRONTEND ================= -->
+<!-- ===== FRONTEND ===== -->
 <h2 align="center">Frontend</h2>
 
+
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.simpleicons.org/html5/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/000000" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redux/000000" width="60" />
 </p>
 
----
 
+
+<!-- ===== BACKEND ===== -->
 <h2 align="center">Backend</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="80" style="margin: 20px;"/>
-</p>
+<div align="center"
+     style="display:flex; flex-wrap:wrap; justify-content:center; gap:60px; filter:grayscale(100%);">
 
----
+  <img src="https://skillicons.dev/icons?i=nodejs" height="85"/>
+  <img src="https://skillicons.dev/icons?i=express" height="85"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="85"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="85"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="85"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="85"/>
 
-<h2 align="center">Database</h2>
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80" style="margin: 20px;"/>
-</p>
+<!-- ===== DEVOPS ===== -->
+<h2 align="center">DevOps</h2>
 
----
+<div align="center"
+     style="display:flex; flex-wrap:wrap; justify-content:center; gap:60px; filter:grayscale(100%);">
 
+  <img src="https://skillicons.dev/icons?i=docker" height="85"/>
+  <img src="https://skillicons.dev/icons?i=github" height="85"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="85"/>
+
+</div>
+
+
+<!-- ===== TOOLS ===== -->
 <h2 align="center">Tools</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" style="margin: 20px;"/>
-</p>
+<div align="center"
+     style="display:flex; flex-wrap:wrap; justify-content:center; gap:60px; filter:grayscale(100%);">
 
+  <img src="https://skillicons.dev/icons?i=figma" height="85"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="85"/>
+  <img src="https://skillicons.dev/icons?i=framer" height="85"/>
+
+</div>
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
 
