@@ -102,7 +102,7 @@
 <h1 align="center">Projects</h1>
 </br>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table style="border: none; border-collapse: collapse;">
 
   <!-- PROJECT 1 -->
   <tr style="border: none;">
