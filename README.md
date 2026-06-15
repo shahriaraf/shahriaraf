@@ -227,19 +227,19 @@
 
 <p align="center">
   <a href="https://github.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/github/ffffff)" width="60" />
+    <img src="https://cdn.simpleicons.org/github)" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="60" />
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="60" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801XXXXXXXXX">
-    <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="60" />
+    <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="50" />
   </a>
 </p>
 
