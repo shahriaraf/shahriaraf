@@ -24,13 +24,14 @@
     </td>
     <td width="70%" style="border: none;">
       <h1>Hey, I’m Shoumo Shahriar Araf</h1>
-</br>
       <p style="font-size:18px; line-height:1.9;">
         A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
       </p>
       <p style="font-size:18px; line-height:1.9;">
         Outside coding, I’m usually either deep in projects or gaming to reset my brain.
       </p>
+      </br>
+  </br>
     </td>
   </tr>
 </table>
