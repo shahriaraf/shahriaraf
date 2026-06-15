@@ -1,4 +1,4 @@
-<img src="./IMG_20260615_183458 (1).svg"/>
+<img src="./IMG_20260615_183458%20(1).svg" width="100%" alt="Banner" />
 
 <div align="center">
 
