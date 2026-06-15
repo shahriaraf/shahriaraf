@@ -107,37 +107,24 @@
 ## 🤝 Connect With Me
 
 
+
 <div align="center">
 
-<a href="https://linkedin.com/in/shahriaraf">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<a href="https://github.com/shahriaraf">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=161B22" />
 </a>
-&nbsp;&nbsp;
-
-<a href="https://twitter.com/shahriaraf">
-  <img src="https://skillicons.dev/icons?i=twitter" height="55" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://shahriaraf.dev">
-  <img src="https://cdn.simpleicons.org/firefoxbrowser/ffffff" height="55" />
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:your@email.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="55" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://dev.to/shahriaraf">
-  <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="55" />
-</a>
-&nbsp;&nbsp;
 
 <a href="https://facebook.com/shahriaraf">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="55" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=white&labelColor=161B22&color=161B22" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22&color=161B22" />
+</a>
+
+<a href="https://wa.me/8801XXXXXXXXX">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=161B22&color=161B22" />
 </a>
 
 </div>
-
 
