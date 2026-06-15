@@ -146,7 +146,7 @@
         🔗 <a href="https://github.com/shahriaraf/project-one">GitHub Repo</a>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
         <img src="https://img.shields.io/github/forks/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
         <img src="https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
       </p>
@@ -167,7 +167,7 @@
         🔗 <a href="https://github.com/shahriaraf/project-two">GitHub Repo</a>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
         <img src="https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
         <img src="https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
       </p>
@@ -188,7 +188,7 @@
         🔗 <a href="https://github.com/shahriaraf/project-three">GitHub Repo</a>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
         <img src="https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
         <img src="https://img.shields.io/github/languages/top/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
       </p>
