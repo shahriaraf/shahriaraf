@@ -98,7 +98,7 @@
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&custom_title=Contribution%20Graph)
+![Contribution Graph](https://ghchart.rshah.org/ffffff/shahriaraf)
 
 </div>
 
