@@ -222,24 +222,24 @@
 
 
 
-## Connect With Me
+<h1 align="center">Connect With Me</h1>
 
 
 <p align="center">
   <a href="https://github.com/shahriaraf">
-    <img src="https://skillicons.dev/icons?i=github" width="60" />
+    <img src="https://cdn.simpleicons.org/github/ffffff)" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/facebook/3b82f6" width="60" />
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://cdn.simpleicons.org/gmail/ea4335" width="60" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801XXXXXXXXX">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="60" />
+    <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="60" />
   </a>
 </p>
 
