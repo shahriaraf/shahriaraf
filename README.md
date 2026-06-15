@@ -1,193 +1,137 @@
+<!-- ============================================================ -->
+<!--                  BANNER IMAGE PLACEHOLDER                   -->
+<!--   Replace the src below with your actual banner image URL   -->
+<!-- ============================================================ -->
+<!-- <img src="YOUR_BANNER_IMAGE_URL" alt="Shahriar Araf - Full Stack Developer" width="100%" /> -->
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ░█████╗░██████╗░░█████╗░███████╗                      ║
-║        ██╔══██╗██╔══██╗██╔══██╗██╔════╝                      ║
-║        ███████║██████╔╝███████║█████╗                        ║
-║        ██╔══██║██╔══██╗██╔══██║██╔══╝                        ║
-║        ██║  ██║██║  ██║██║  ██║██║                           ║
-║        ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝                          ║
-║                                                              ║
-║          F U L L - S T A C K   E N G I N E E R              ║
-║          S Y S T E M   A R C H I T E C T                    ║
-║          B U I L D E R   O F   T H I N G S                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Shahriar Araf
+### Full Stack Developer
+
+<!-- Stars, Forks, Followers -->
+[![GitHub Stars](https://img.shields.io/github/stars/shahriararaf?style=flat-square&logo=github&labelColor=000000&color=000000&label=⭐%20Stars)](https://github.com/shahriararaf?tab=repositories)
+[![GitHub Forks](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shahriararaf&query=$.public_repos&style=flat-square&logo=github&labelColor=000000&color=000000&label=🍴%20Forks)](https://github.com/shahriararaf?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/shahriararaf?style=flat-square&logo=github&labelColor=000000&color=000000&label=👥%20Followers)](https://github.com/shahriararaf?tab=followers)
+
+</div>
+
+---
+
+## 👤 Know About Me
+
+<!-- ============================================================ -->
+<!--              KNOW ABOUT ME IMAGE PLACEHOLDER                 -->
+<!--   Replace the src below with your brain/avatar image URL    -->
+<!-- ============================================================ -->
+<!-- <img align="left" src="YOUR_AVATAR_OR_BRAIN_IMAGE_URL" width="150px" /> -->
+
+Hey there! I'm **Shahriar Araf**
+
+I'm a Full Stack Developer with a passion for building clean, efficient, and scalable web applications. By day, I architect solutions. By night, I turn coffee into code.
+
+- 🔭 Currently working on exciting full stack projects
+- 🌱 Always learning new technologies
+- 💬 Ask me about JavaScript, Node.js, React, and more
+- 📫 Reach me at: **[your@email.com](mailto:your@email.com)**
+
+<br clear="left"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🔥 Projects
+
+<!-- ============================================================ -->
+<!--                  FIRE IMAGE PLACEHOLDER                      -->
+<!--   Replace the src below with your fire/projects image URL   -->
+<!-- ============================================================ -->
+<!-- <img align="right" src="YOUR_FIRE_IMAGE_URL" width="120px" /> -->
+
+### 🚀 [Project Name One](https://github.com/shahriararaf/project-one)
+> A short description of what this project does and the problem it solves.
+
+![Stars](https://img.shields.io/github/stars/shahriararaf/project-one?style=flat-square&labelColor=000000&color=000000)
+![Forks](https://img.shields.io/github/forks/shahriararaf/project-one?style=flat-square&labelColor=000000&color=000000)
+![Language](https://img.shields.io/github/languages/top/shahriararaf/project-one?style=flat-square&labelColor=000000&color=000000)
+
+---
+
+### 🚀 [Project Name Two](https://github.com/shahriararaf/project-two)
+> A short description of what this project does and the problem it solves.
+
+![Stars](https://img.shields.io/github/stars/shahriararaf/project-two?style=flat-square&labelColor=000000&color=000000)
+![Forks](https://img.shields.io/github/forks/shahriararaf/project-two?style=flat-square&labelColor=000000&color=000000)
+![Language](https://img.shields.io/github/languages/top/shahriararaf/project-two?style=flat-square&labelColor=000000&color=000000)
+
+---
+
+### 🚀 [Project Name Three](https://github.com/shahriararaf/project-three)
+> A short description of what this project does and the problem it solves.
+
+![Stars](https://img.shields.io/github/stars/shahriararaf/project-three?style=flat-square&labelColor=000000&color=000000)
+![Forks](https://img.shields.io/github/forks/shahriararaf/project-three?style=flat-square&labelColor=000000&color=000000)
+![Language](https://img.shields.io/github/languages/top/shahriararaf/project-three?style=flat-square&labelColor=000000&color=000000)
+
+---
+
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<!-- GitHub Stats — black and white theme -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriararaf&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&count_private=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriararaf&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false)
+
+<!-- Contribution Streak — black and white -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahriararaf&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border=ffffff)
+
+<!-- Contribution Graph — black and white (no green) -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriararaf&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=false&custom_title=Contribution%20Graph)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriararaf)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahriararaf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shahriararaf.dev)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shahriararaf)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=shahriaraf&style=flat-square&color=grey&label=VISITORS)
-&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/shahriaraf?style=flat-square&color=grey&label=FOLLOWERS)
-&nbsp;&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/shahriaraf?style=flat-square&color=grey&label=STARS)
-
-</div>
-
----
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│  WHO I AM                                                    │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-```
-  NAME    ──  Araf (shahriaraf)
-  STATUS  ──  CSE Undergrad @ Sylhet, Bangladesh
-  FOCUS   ──  SaaS Products & Distributed Systems
-  CURRENT ──  Turf Booking SaaS + FlowBoard
-  CREED   ──  Build it. Ship it. Scale it.
-```
-
-> *A Computer Science undergrad from Sylhet obsessed with system design,
-> clean architecture, and shipping things that actually work. I build
-> full-stack products end-to-end — from database schema to polished UI —
-> and spend too much time thinking about how things scale before they need to.*
-
----
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│  TECHNICAL ARSENAL                                           │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-**▪ Frontend**
-
-![React](https://img.shields.io/badge/React-%23000000.svg?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%23000000.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23000000.svg?style=flat-square&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23000000.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-**▪ Backend & Databases**
-
-![NestJS](https://img.shields.io/badge/NestJS-%23000000.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=flat-square&logo=prisma&logoColor=white)
-
-**▪ Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23000000.svg?style=flat-square&logo=gitlab&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=flat-square&logo=firebase&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23000000.svg?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=flat-square&logo=figma&logoColor=white)
-
-**▪ Also experienced with**
-
-```
-Shadcn UI  ·  Framer Motion  ·  GSAP  ·  WebSockets
-Redis  ·  BullMQ  ·  Socket.IO  ·  JWT Authentication
-```
-
----
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│  GITHUB STATISTICS                                           │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&theme=graywhite&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=faf7f0&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&theme=graywhite&title_color=000000&text_color=333333&border_color=000000&bg_color=faf7f0&hide_border=false&langs_count=6" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriaraf&theme=panda&background=faf7f0&border=000000&stroke=000000&ring=000000&fire=333333&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=333333&dates=666666" width="60%" />
-
-</div>
-
----
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│  CONTRIBUTION GRAPH                                          │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=faf7f0&color=000000&line=333333&point=000000&area_color=cccccc&area=true&hide_border=false&border_color=000000&title_color=000000&custom_title=Araf's%20Contribution%20Graph" width="100%" />
-
-</div>
-
----
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│  FEATURED PROJECTS                                           │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-<a href="https://github.com/shahriaraf/flowboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahriaraf&repo=flowboard&theme=graywhite&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=faf7f0" />
-</a>
-&nbsp;
-<a href="https://github.com/shahriaraf/turf-booking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahriaraf&repo=turf-booking&theme=graywhite&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=faf7f0" />
-</a>
-
-</div>
-
----
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│  CONNECT                                                     │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahriaraf)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriaraf)
-[![Gmail](https://img.shields.io/badge/GMAIL-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white)](https://your-resume-link.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "Code is never finished. It only becomes slightly         │
-│    less terrible over time."                                │
-│                                                             │
-│   "Every commit I make is a small, desperate apology        │
-│    to my future self."                                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-*— Rendered with ink · Sylhet, Bangladesh · 2025 —*
-
+  <img src="https://komarev.com/ghpvc/?username=shahriararaf&style=flat-square&color=000000&label=Profile+Views" alt="Profile Views" />
 </div>
