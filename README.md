@@ -79,6 +79,7 @@
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/firebase/ffffff" width="50" />
         <img src="https://cdn.simpleicons.org/prisma/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="50" />
       </p>
         </br>
     </td>
