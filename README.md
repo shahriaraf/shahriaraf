@@ -81,7 +81,6 @@
         <img src="https://cdn.simpleicons.org/prisma/ffffff" width="50" />
         <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="50" />
       </p>
-        </br>
     </td>
 
 
@@ -115,8 +114,16 @@
 
 </table>
 
+<h1 align="center">Projects</h1>
+</br>
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+
   <!-- PROJECT 1 -->
   <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_ONE" width="100%" alt="Project One Preview">
+    </td>
     <td width="70%" style="border: none;">
       <h2>Project Name One</h2>
       <p style="font-size:16px; line-height:1.8;">
@@ -131,13 +138,13 @@
         <img src="https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
       </p>
     </td>
-        <td width="30%" style="border: none; padding: 10px;">
-      <img src="YOUR_PROJECT_IMAGE_URL_ONE" width="100%" alt="Project One Preview">
-    </td>
   </tr>
 
   <!-- PROJECT 2 -->
   <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_TWO" width="100%" alt="Project Two Preview">
+    </td>
     <td width="70%" style="border: none;">
       <h2>Project Name Two</h2>
       <p style="font-size:16px; line-height:1.8;">
@@ -152,13 +159,13 @@
         <img src="https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
       </p>
     </td>
-        <td width="30%" style="border: none; padding: 10px;">
-      <img src="YOUR_PROJECT_IMAGE_URL_TWO" width="100%" alt="Project Two Preview">
-    </td>
   </tr>
 
   <!-- PROJECT 3 -->
   <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_THREE" width="100%" alt="Project Three Preview">
+    </td>
     <td width="70%" style="border: none;">
       <h2>Project Name Three</h2>
       <p style="font-size:16px; line-height:1.8;">
@@ -172,9 +179,6 @@
         <img src="https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
         <img src="https://img.shields.io/github/languages/top/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
       </p>
-    </td>
-        <td width="30%" style="border: none; padding: 10px;">
-      <img src="YOUR_PROJECT_IMAGE_URL_THREE" width="100%" alt="Project Three Preview">
     </td>
   </tr>
 
