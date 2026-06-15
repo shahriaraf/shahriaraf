@@ -18,18 +18,24 @@
 
 <div align="center">
 
-<div style="display:flex; align-items:center; justify-content:center; gap:40px; max-width:900px;">
+<div style="
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  max-width: 900px;
+">
 
-  <!-- Image -->
+  <!-- Left: Image -->
   <div>
     <img 
       src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" 
-      style="width:300px; height:auto;"
+      style="width:320px; height:auto;"
     />
   </div>
 
-  <!-- Text -->
-  <div style="text-align:left; max-width:500px;">
+  <!-- Right: Text -->
+  <div style="text-align:left;">
     <h1>Hey, I’m Shoumo Shahriar Araf</h1>
     <p style="font-size:18px; line-height:1.6;">
       A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
