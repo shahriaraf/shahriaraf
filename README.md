@@ -16,21 +16,24 @@
 
 <br/>
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" width="280px" />
+    <td>
+<img src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" width="280px" />
     </td>
-
-
+    <td>
 ### Hey, I’m Shoumo Shahriar Araf
 
 A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
 
 Outside coding, I’m usually either deep in projects or gaming to reset my brain.
-
+    </td>
   </tr>
 </table>
+
+</div>
 ## 🛠️ Tech Stack
 
 **Frontend**
