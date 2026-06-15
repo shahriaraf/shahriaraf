@@ -227,7 +227,7 @@
 
 <p align="center">
   <a href="https://github.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/github)" width="40" />
+    <img src="https://cdn.simpleicons.org/github/000000)" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/shahriaraf">
