@@ -5,10 +5,6 @@
 
 <div align="center">
 
-  <!-- HEADER -->
-  <h2>GitHub Overview</h2>
-
-  <br/>
 
   <!-- BADGES ROW -->
   <p>
