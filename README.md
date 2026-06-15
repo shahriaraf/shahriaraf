@@ -106,7 +106,7 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<div align="center" border="2px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriaraf)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahriaraf)
