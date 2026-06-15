@@ -99,31 +99,75 @@
   <img src="https://cdn.simpleicons.org/framer/ffffff" width="60" />
 </p>
  </br>
-<!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
+<h1 align="center">Projects</h1>
+</br>
 
-### 🔗 [Project Name One](https://github.com/shahriaraf/project-one)
-> Short description of this project and the problem it solves.
+<table style="border: none; border-collapse: collapse; width: 100%;">
 
-![Stars](https://img.shields.io/github/stars/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000)
-![Forks](https://img.shields.io/github/forks/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000)
-![Language](https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000)
+  <!-- PROJECT 1 -->
+  <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_ONE" width="100%" alt="Project One Preview">
+    </td>
+    <td width="70%" style="border: none;">
+      <h2>Project Name One</h2>
+      <p style="font-size:16px; line-height:1.8;">
+        Short description of this project and the problem it solves. Explain what makes it useful or unique.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/shahriaraf/project-one">GitHub Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+      </p>
+    </td>
+  </tr>
 
-### 🔗 [Project Name Two](https://github.com/shahriaraf/project-two)
-> Short description of this project and the problem it solves.
+  <!-- PROJECT 2 -->
+  <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_TWO" width="100%" alt="Project Two Preview">
+    </td>
+    <td width="70%" style="border: none;">
+      <h2>Project Name Two</h2>
+      <p style="font-size:16px; line-height:1.8;">
+        Short description of this project and the problem it solves.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/shahriaraf/project-two">GitHub Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
+      </p>
+    </td>
+  </tr>
 
-![Stars](https://img.shields.io/github/stars/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000)
-![Forks](https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000)
-![Language](https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000)
+  <!-- PROJECT 3 -->
+  <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_THREE" width="100%" alt="Project Three Preview">
+    </td>
+    <td width="70%" style="border: none;">
+      <h2>Project Name Three</h2>
+      <p style="font-size:16px; line-height:1.8;">
+        Short description of this project and the problem it solves.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/shahriaraf/project-three">GitHub Repo</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
+      </p>
+    </td>
+  </tr>
 
-### 🔗 [Project Name Three](https://github.com/shahriaraf/project-three)
-> Short description of this project and the problem it solves.
-
-![Stars](https://img.shields.io/github/stars/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000)
-![Forks](https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000)
-![Language](https://img.shields.io/github/languages/top/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000)
-
----
+</table>
 
 
 ## GitHub Contributions
