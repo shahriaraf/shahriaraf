@@ -21,10 +21,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img 
-        src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" 
-        width="380px" 
-      />
+<img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview" border="0">
     </td>
     <td width="60%">
 
