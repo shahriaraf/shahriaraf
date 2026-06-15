@@ -18,35 +18,22 @@
 
 <div align="center">
 
-<div style="
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
-  align-items: center;
-  max-width: 900px;
-">
-
-  <!-- Left: Image -->
-  <div>
-    <img 
-      src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" 
-      style="width:320px; height:auto;"
-    />
-  </div>
-
-  <!-- Right: Text -->
-  <div style="text-align:left;">
-    <h1>Hey, I’m Shoumo Shahriar Araf</h1>
-    <p style="font-size:18px; line-height:1.6;">
-      A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
-    </p>
-    <p style="font-size:18px; line-height:1.6;">
-      Outside coding, I’m usually either deep in projects or gaming to reset my brain.
-    </p>
-
-  </div>
-
-</div>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="30%" style="border: none; padding: 10px;">
+      <img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview">
+    </td>
+    <td width="70%" style="border: none; padding: 10px;">
+      <h1>Hey, I’m Shoumo Shahriar Araf</h1>
+      <p style="font-size:18px; line-height:1.6;">
+        A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
+      </p>
+      <p style="font-size:18px; line-height:1.6;">
+        Outside coding, I’m usually either deep in projects or gaming to reset my brain.
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 ## 🛠️ Tech Stack
