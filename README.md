@@ -94,11 +94,11 @@
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/ffffff/shahriaraf)
+─────────────────────── 📈 Contribution Graph ───────────────────────
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriaraf&theme=github_dark)
 
 </div>
 
