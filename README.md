@@ -106,14 +106,38 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/shahriaraf">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117">
-  </a>
-  <a href="https://twitter.com/shahriaraf">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117&color=0D1117">
-  </a>
-  <a href="https://facebook.com/shahriaraf">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117&color=0D1117">
-  </a>
-</p>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shahriaraf">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://twitter.com/shahriaraf">
+  <img src="https://skillicons.dev/icons?i=twitter" height="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://shahriaraf.dev">
+  <img src="https://cdn.simpleicons.org/firefoxbrowser/ffffff" height="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:your@email.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://dev.to/shahriaraf">
+  <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://facebook.com/shahriaraf">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="55" />
+</a>
+
+</div>
+
+
