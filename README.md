@@ -94,13 +94,17 @@
 
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/ffffff/shahriaraf)
-
+  <img
+    src="https://ghchart.rshah.org/ffffff/shahriaraf"
+    alt="Contribution Graph"
+    width="100%"
+  />
 </div>
+
+
 
 
 
