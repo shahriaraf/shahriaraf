@@ -23,7 +23,7 @@
       <img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview">
     </td>
     <td width="70%" style="border: none; padding: 20px;">
-      <h2>Hey, I’m Shoumo Shahriar Araf</h2>
+      <h1>Hey, I’m Shoumo Shahriar Araf</h1>
       <p style="font-size:18px; line-height:1.9;">
         A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. I build web apps, explore new tech, and automate repetitive work wherever possible.
       </p>
