@@ -35,37 +35,52 @@
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+<h1 align="center">Know About Me</h1>
 
-**Frontend**
+<!-- ================= FRONTEND ================= -->
+<h2 align="center">Frontend</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=html,css,js" height="70"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="70"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,redux" height="70"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+</div>
 
-**Database**
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+<!-- ================= BACKEND ================= -->
+<h2 align="center">Backend</h2>
 
-**DevOps & Tools**
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="70"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="70"/>
 
+</div>
+
+---
+
+<!-- ================= DEVOPS ================= -->
+<h2 align="center">DevOps</h2>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+
+<img src="https://skillicons.dev/icons?i=docker,github,gitlab" height="70"/>
+
+</div>
+
+---
+
+<!-- ================= TOOLS ================= -->
+<h2 align="center">Tools</h2>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+
+<img src="https://skillicons.dev/icons?i=figma,postman,framer" height="70"/>
+
+</div>
 ---
 
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
