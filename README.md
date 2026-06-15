@@ -108,6 +108,25 @@
 
 
 
-<p align="center"> <a href="https://github.com/shahriaraf"> <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://facebook.com/shahriaraf"> <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://wa.me/8801XXXXXXXXX"> <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> </p>
+
+<p align="center">
+  <a href="https://github.com/shahriaraf">
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/shahriaraf">
+    <img src="https://cdn.simpleicons.org/facebook/3b82f6" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://cdn.simpleicons.org/gmail/ea4335" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/8801XXXXXXXXX">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="60" />
+  </a>
+</p>
+
+
 
 
