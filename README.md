@@ -12,11 +12,25 @@
 ---
 
 <!-- KNOW ABOUT ME SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<img 
-  src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" 
-  style="width: 100%; max-width: 100%; height: auto; display: block;" 
-/>
+<h2 align="center">Know About Me</h2>
 
+<br/>
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <img src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" width="300px" />
+    </td>
+
+    <td width="55%" align="left">
+
+### Hey, I’m Shoumo Shahriar Araf
+
+A full-stack developer who enjoys turning ideas into working systems and breaking them just enough to understand how they really work. Most of my time goes into building web apps, exploring new tech, and writing code that saves me from doing repetitive work. Outside of that, I’m usually either deep in a project or lost in games when my brain needs a reset.
+
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
