@@ -184,8 +184,8 @@
 
 </table>
 
-
-## GitHub Contributions
+<h1 align="center">Github Contribution</h1>
+</br>
 
 <div align="center">
 
@@ -205,9 +205,8 @@
 
 
 
-## Contribution Graph
-
-
+<h1 align="center">Contribution Graph</h1>
+</br>
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/shahriaraf)
 
 
@@ -223,6 +222,7 @@
 
 
 <h1 align="center">Connect With Me</h1>
+</br>
 
 
 <p align="center">
