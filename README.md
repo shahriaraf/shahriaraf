@@ -107,8 +107,6 @@
 ## Connect With Me
 
 
----
-
 <p align="center">
   <a href="https://github.com/shahriaraf">
     <img src="https://skillicons.dev/icons?i=github" width="60" />
