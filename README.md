@@ -53,40 +53,40 @@
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Frontend</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/html5/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/css/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/css/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/javascript/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/react/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/redux/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/redux/ffffff" width="40" />
       </p>
     </td>
     <!-- BACKEND -->
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Backend</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/express/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/express/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/mysql/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/mysql/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/firebase/ffffff" width="50" />
-        <img src="https://cdn.simpleicons.org/prisma/ffffff" width="50" />
-        <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/firebase/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/prisma/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="40" />
       </p>
     </td>
 
@@ -98,22 +98,22 @@
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>DevOps</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/docker/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/docker/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/github/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/github/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="40" />
       </p>
     </td>
     <!-- TOOLS -->
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Tools</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/figma/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/figma/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/postman/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/framer/ffffff" width="50" />
+        <img src="https://cdn.simpleicons.org/framer/ffffff" width="40" />
       </p>
     </td>
 
@@ -243,19 +243,19 @@
 
 <p align="center">
   <a href="https://github.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="50" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="50" />
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="50" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801XXXXXXXXX">
-    <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="50" />
+    <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="40" />
   </a>
 </p>
 
