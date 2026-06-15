@@ -63,42 +63,39 @@
 <!-- ===== BACKEND ===== -->
 <h2 align="center">Backend</h2>
 
-<div align="center"
-     style="display:flex; flex-wrap:wrap; justify-content:center; gap:60px; filter:grayscale(100%);">
-
-  <img src="https://skillicons.dev/icons?i=nodejs" height="85"/>
-  <img src="https://skillicons.dev/icons?i=express" height="85"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="85"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="85"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="85"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="85"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/ffffff" width="60" />
+</p>
 
 <!-- ===== DEVOPS ===== -->
-<h2 align="center">DevOps</h2>
-
-<div align="center"
-     style="display:flex; flex-wrap:wrap; justify-content:center; gap:60px; filter:grayscale(100%);">
-
-  <img src="https://skillicons.dev/icons?i=docker" height="85"/>
-  <img src="https://skillicons.dev/icons?i=github" height="85"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" height="85"/>
-
-</div>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/docker/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="60" />
+</p>
 
 <!-- ===== TOOLS ===== -->
 <h2 align="center">Tools</h2>
 
-<div align="center"
-     style="display:flex; flex-wrap:wrap; justify-content:center; gap:60px; filter:grayscale(100%);">
-
-  <img src="https://skillicons.dev/icons?i=figma" height="85"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="85"/>
-  <img src="https://skillicons.dev/icons?i=framer" height="85"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/figma/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/ffffff" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/ffffff" width="60" />
+</p>
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
 
