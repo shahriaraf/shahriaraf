@@ -38,48 +38,45 @@
 <h1 align="center">Skills</h1>
 
 <!-- ================= FRONTEND ================= -->
-## Frontend
+<h2 align="center">Frontend</h2>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" style="margin: 20px;"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="70"/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="70"/>
-<img src="https://skillicons.dev/icons?i=bootstrap,redux" height="70"/>
+---
 
-</div>
+<h2 align="center">Backend</h2>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="80" style="margin: 20px;"/>
+</p>
 
-<!-- ================= BACKEND ================= -->
-## Backend
+---
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<h2 align="center">Database</h2>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="70"/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="70"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80" style="margin: 20px;"/>
+</p>
 
-</div>
+---
 
+<h2 align="center">Tools</h2>
 
-
-<!-- ================= DEVOPS ================= -->
-## DevOps
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-
-<img src="https://skillicons.dev/icons?i=docker,github,gitlab" height="70"/>
-
-</div>
-
-
-<!-- ================= TOOLS ================= -->
-## Tools
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-
-<img src="https://skillicons.dev/icons?i=figma,postman,gsap" height="70"/>
-
-</div>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" style="margin: 20px;"/>
+</p>
 
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
