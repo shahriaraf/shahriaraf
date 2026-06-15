@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="60" />
+  <img src="https://skillicons.dev/icons?i=css/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
