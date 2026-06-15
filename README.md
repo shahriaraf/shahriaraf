@@ -22,7 +22,6 @@
       <img src="https://i.ibb.co.com/Wvm48Fpn/afsdfd.png" width="280px" />
     </td>
 
-    <td width="60%" align="left">
 
 ### Hey, I’m Shoumo Shahriar Araf
 
@@ -30,7 +29,6 @@ A full-stack developer who enjoys turning ideas into working systems and breakin
 
 Outside coding, I’m usually either deep in projects or gaming to reset my brain.
 
-    </td>
   </tr>
 </table>
 ## 🛠️ Tech Stack
