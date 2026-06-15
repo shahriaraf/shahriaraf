@@ -35,74 +35,81 @@
   </tr>
 </table>
 
-<!-- ===== FRONTEND ===== -->
-<h2 align="center">Frontend</h2>
-
-
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redux/ffffff" width="60" />
-</p>
- </br>
-
-
-<!-- ===== BACKEND ===== -->
-<h2 align="center">Backend</h2>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/ffffff" width="60" />
-</p
+<h1 align="center">Tech Stack</h1>
 </br>
 
-<!-- ===== DEVOPS ===== -->
-<h2 align="center">DevOps</h2>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/docker/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="60" />
-</p>
- </br>
-<!-- ===== TOOLS ===== -->
-<h2 align="center">Tools</h2>
+<table style="width:100%; border:none; border-collapse:collapse;">
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/figma/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/ffffff" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer/ffffff" width="60" />
-</p>
- </br>
-<h1 align="center">Projects</h1>
-</br>
+  <!-- ROW 1 -->
+  <tr>
+    <!-- FRONTEND -->
+    <td width="50%" align="center" style="vertical-align:top; padding:20px;">
+      <h2>Frontend</h2>
+      <p>
+        <img src="https://cdn.simpleicons.org/html5/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/css3/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/javascript/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/react/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/redux/ffffff" width="50" />
+      </p>
+    </td>
+    <!-- BACKEND -->
+    <td width="50%" align="center" style="vertical-align:top; padding:20px;">
+      <h2>Backend</h2>
+      <p>
+        <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/express/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/mysql/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/firebase/ffffff" width="50" />
+      </p>
+    </td>
 
-<table style="border: none; border-collapse: collapse;">
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <!-- DEVOPS -->
+    <td width="50%" align="center" style="vertical-align:top; padding:20px;">
+      <h2>DevOps</h2>
+      <p>
+        <img src="https://cdn.simpleicons.org/docker/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/github/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="50" />
+      </p>
+    </td>
+    <!-- TOOLS -->
+    <td width="50%" align="center" style="vertical-align:top; padding:20px;">
+      <h2>Tools</h2>
+      <p>
+        <img src="https://cdn.simpleicons.org/figma/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/postman/ffffff" width="50" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/framer/ffffff" width="50" />
+      </p>
+    </td>
+
+  </tr>
+
+</table>
 
   <!-- PROJECT 1 -->
   <tr style="border: none;">
