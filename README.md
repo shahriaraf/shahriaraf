@@ -79,11 +79,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriaraf&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&count_private=true&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shahriaraf&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=shahriaraf&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
