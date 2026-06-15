@@ -177,12 +177,12 @@
 <img src="https://i.ibb.co.com/p6dKRPjS/taskeo-srenshot.png" alt="taskeo-srenshot" border="0">
     </td>
     <td width="70%" style="border: none;">
-      <h2>Project Name Three</h2>
+      <h2>Taskeo</h2>
       <p style="font-size:16px; line-height:1.8;">
         A full-stack web application for teams to manage projects, tasks, members, and work progress with real-time updates, role-based access control, and rich analytics.
       </p>
       <p>
-        🔗 <a href="https://github.com/shahriaraf/project-three">GitHub Repo</a>
+        🔗 <a href="https://github.com/shahriaraf/Taskeo-Frontend">GitHub Repo</a>
       </p>
       <p>
 <img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
