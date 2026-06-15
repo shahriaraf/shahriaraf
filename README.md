@@ -35,10 +35,10 @@
   </tr>
 </table>
 
-<h1 align="center">Know About Me</h1>
+<h1 align="center">Skills</h1>
 
 <!-- ================= FRONTEND ================= -->
-<h2 align="center">Frontend</h2>
+## Frontend
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
@@ -48,10 +48,9 @@
 
 </div>
 
----
 
 <!-- ================= BACKEND ================= -->
-<h2 align="center">Backend</h2>
+## Backend
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
@@ -60,10 +59,10 @@
 
 </div>
 
----
+
 
 <!-- ================= DEVOPS ================= -->
-<h2 align="center">DevOps</h2>
+## DevOps
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
@@ -71,17 +70,16 @@
 
 </div>
 
----
 
 <!-- ================= TOOLS ================= -->
-<h2 align="center">Tools</h2>
+## Tools
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-<img src="https://skillicons.dev/icons?i=figma,postman,framer" height="70"/>
+<img src="https://skillicons.dev/icons?i=figma,postman,gsap" height="70"/>
 
 </div>
----
+
 
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
