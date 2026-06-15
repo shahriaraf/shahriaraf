@@ -3,9 +3,19 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/shahriaraf?style=flat-square&logo=github&labelColor=000000&color=000000&label=⭐%20Stars)](https://github.com/shahriaraf?tab=repositories)
-[![GitHub Followers](https://img.shields.io/github/followers/shahriaraf?style=flat-square&logo=github&labelColor=000000&color=000000&label=👥%20Followers)](https://github.com/shahriaraf?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=shahriaraf&style=flat-square&color=000000&label=👁️%20Views)](https://github.com/shahriaraf)
+  <!-- HEADER -->
+  <h2>GitHub Overview</h2>
+
+  <br/>
+
+  <!-- BADGES ROW -->
+  <p>
+    <img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0d1117" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=shahriaraf&style=for-the-badge&color=0d1117&label=Profile+Views" />
+  </p>
 
 </div>
 
