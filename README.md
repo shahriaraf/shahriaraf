@@ -96,13 +96,10 @@
 
 ## Contribution Graph
 
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/a855f7/shahriaraf"
-    alt="Contribution Graph"
-    width="100%"
-  />
-</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/shahriaraf)
+
+
 
 
 
