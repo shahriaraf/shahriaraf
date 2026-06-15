@@ -43,6 +43,8 @@
   </tr>
 </table>
 
+</br>
+
 <h1 align="center">Tech Stack</h1>
 </br>
 
@@ -122,6 +124,9 @@
 
 </table>
 
+</br>
+
+
 <h1 align="center">Projects</h1>
 </br>
 
@@ -192,6 +197,9 @@
 
 </table>
 
+</br>
+
+
 <h1 align="center">Github Contribution</h1>
 </br>
 
@@ -230,6 +238,7 @@
 
 
 
+</br>
 
 <h1 align="center">Connect With Me</h1>
 </br>
