@@ -1,5 +1,7 @@
 <!-- BANNER SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
-<img src="https://i.ibb.co.com/rGvfnWqC/Gemini-Generated-Image-x78ckx78ckx78ckx.png" alt="Gemini-Generated-Image-x78ckx78ckx78ckx" border="0">
+<p align="center">
+    <img src="https://i.ibb.co.com/27h4SzZh/IMG-20260615-183458.png" style="width:100%;" alt="IMG" />
+</p>
 
 <div align="center">
 
