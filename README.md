@@ -174,12 +174,12 @@
   <!-- PROJECT 3 -->
   <tr style="border: none;">
     <td width="30%" style="border: none; padding: 10px;">
-      <img src="YOUR_PROJECT_IMAGE_URL_THREE" width="100%" alt="Project Three Preview">
+<img src="https://i.ibb.co.com/p6dKRPjS/taskeo-srenshot.png" alt="taskeo-srenshot" border="0">
     </td>
     <td width="70%" style="border: none;">
       <h2>Project Name Three</h2>
       <p style="font-size:16px; line-height:1.8;">
-        Short description of this project and the problem it solves.
+        A full-stack web application for teams to manage projects, tasks, members, and work progress with real-time updates, role-based access control, and rich analytics.
       </p>
       <p>
         🔗 <a href="https://github.com/shahriaraf/project-three">GitHub Repo</a>
