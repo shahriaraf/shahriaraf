@@ -57,7 +57,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/redux/ffffff" width="60" />
 </p>
-
+ </br>
 
 
 <!-- ===== BACKEND ===== -->
@@ -75,9 +75,11 @@
   <img src="https://cdn.simpleicons.org/mysql/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/firebase/ffffff" width="60" />
-</p>
+</p
+  </br>
 
 <!-- ===== DEVOPS ===== -->
+<h2 align="center">Backend</h2>
 <p align="center">
   <img src="https://cdn.simpleicons.org/docker/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
@@ -85,7 +87,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="60" />
 </p>
-
+ </br>
 <!-- ===== TOOLS ===== -->
 <h2 align="center">Tools</h2>
 
@@ -96,6 +98,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/framer/ffffff" width="60" />
 </p>
+ </br>
 <!-- PROJECTS / FIRE SECTION SVG PLACEHOLDER — replace with your hosted SVG or image URL -->
 <img src="YOUR_PROJECTS_FIRE_SVG_URL" width="100%" alt="Projects" />
 
