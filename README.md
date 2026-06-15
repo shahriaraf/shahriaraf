@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/ffffff" width="60" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
@@ -76,10 +76,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/firebase/ffffff" width="60" />
 </p
-  </br>
+</br>
 
 <!-- ===== DEVOPS ===== -->
-<h2 align="center">Backend</h2>
+<h2 align="center">DevOps</h2>
 <p align="center">
   <img src="https://cdn.simpleicons.org/docker/ffffff" width="60" />
   &nbsp;&nbsp;&nbsp;
