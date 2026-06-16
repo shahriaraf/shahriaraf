@@ -144,8 +144,8 @@
 <tr>
 <td align="left">
 
-  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+  Repo <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="10" />
   </a>
 
 </td>
