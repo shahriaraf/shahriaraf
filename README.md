@@ -144,7 +144,7 @@
 <tr>
 <td align="left">
 
-<a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal"> Code
+Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" />
   </a>
 
