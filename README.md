@@ -24,8 +24,8 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="40%" style="border: none; padding: 10px;">
-      <img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview">
+    <td align="center" width="40%" style="border: none; padding: 10px;">
+      <img align="center" src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview">
     </td>
     <td width="60%" style="border: none;">
       <h2>Hey, I’m Shoumo Shahriar Araf</h2>
@@ -36,6 +36,33 @@
         Outside coding, I’m usually either deep in projects or gaming to reset my brain.
       </p>
   </br>
+    </td>
+  </tr>
+</table>
+
+</br>
+
+<h1 align="center">Beyond Coding</h1>
+<br>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- TEXT LEFT SIDE -->
+    <td width="60%" style="border: none; padding: 10px; vertical-align: middle;">
+      <h2>Life outside the code editor</h2>
+      <p style="font-size:18px; line-height:1.9;">
+        I believe good developers are not just defined by what they build, but also by what they enjoy outside of tech. These small things keep me creative and consistent.
+      </p>
+      <p style="font-size:18px; line-height:1.9;">
+        🎮 Gaming <br>
+        📚 Learning new technologies <br>
+        🤝 Building products with teams <br>
+        ☕ Late-night debugging sessions
+      </p>
+    </td>
+    <!-- IMAGE RIGHT SIDE -->
+    <td width="40%" align="center" style="border: none; padding: 10px; vertical-align: middle;">
+      <img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" width="90%" />
     </td>
   </tr>
 </table>
