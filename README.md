@@ -251,16 +251,16 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-      <p>
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
-  &nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/zustand/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="22" />
-  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/redis/ffffff" width="22" />
 </p>
     </td>
   </tr>
