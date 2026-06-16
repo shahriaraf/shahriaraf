@@ -42,9 +42,6 @@
 
 </br>
 
-<h1 align="center">Beyond Coding</h1>
-<br>
-
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <!-- TEXT LEFT SIDE -->
