@@ -145,15 +145,15 @@
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="15" />
   </a>
 
 </td>
 
 <td align="right">
 
-  <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  Live ➜ <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="15" />
   </a>
 
 </td>
