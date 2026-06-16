@@ -139,13 +139,15 @@
       <p style="font-size:16px; line-height:1.8;">
        A project management app to manage submission, users, and different kind of settings. It's currently in use in my University. 
       </p>
-      <p>
-        🔗 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">GitHub Repo</a>
+      <p style="font-size:12px;>
+        📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">GitHub Repo</a>
+      </p>
+      <p style="font-size:12px;>
+       💻 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">Live View</a>
       </p>
       <p>
-<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
-        <img src="https://img.shields.io/github/forks/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
-        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/Leading-Unity-Nest-Backend?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/?style=flat-square&labelColor=000000&color=000000" />
       </p>
     </td>
   </tr>
@@ -236,7 +238,7 @@
 
 </br>
 
-<h1 align="center">Connect With Me <img src="./Gemini_Generated_Image_aaj21baaj21baaj2-removebg-preview.png" width="15"  /></h1>
+<h1 align="center">Connect With Me</h1>
 </br>
 
 
