@@ -236,7 +236,7 @@
 
 </br>
 
-<h1 align="center">Connect With Me</h1>
+<h1 align="center"><img src="./Gemini_Generated_Image_aaj21baaj21baaj2-removebg-preview.png" />Connect With Me</h1>
 </br>
 
 
