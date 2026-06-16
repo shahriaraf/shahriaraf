@@ -140,15 +140,25 @@
        A project management app to manage submission, users, and different kind of settings. It's currently in use in my University. 
       </p>
      <p>
-  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
-  </a>
+<table width="100%">
+<tr>
+<td align="left">
 
-  &nbsp;&nbsp;&nbsp;
+📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+Repository
+</a>
 
-  <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
-  </a>
+</td>
+
+<td align="right">
+
+🚀 <a href="https://your-live-link.com">
+Live Demo
+</a>
+
+</td>
+</tr>
+</table>
 </p>
       <p>
         <img src="https://img.shields.io/github/forks/shahriaraf/Leading-Unity-Nest-Backend?style=flat-square&labelColor=000000&color=000000" />
@@ -168,15 +178,25 @@
         Short description of this project and the problem it solves.
       </p>
       <p>
-  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
-  </a>
+<table width="100%">
+<tr>
+<td align="left">
 
-  &nbsp;&nbsp;&nbsp;
+📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+Repository
+</a>
 
-  <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
-  </a>
+</td>
+
+<td align="right">
+
+🚀 <a href="https://your-live-link.com">
+Live Demo
+</a>
+
+</td>
+</tr>
+</table>
 </p>
       <p>
 <img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
@@ -197,15 +217,25 @@
         A full-stack web application for teams to manage projects, tasks, members, and work progress with real-time updates, role-based access control, and rich analytics.
       </p>
      <p>
-  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
-  </a>
+<table width="100%">
+<tr>
+<td align="left">
 
-  &nbsp;&nbsp;&nbsp;
+📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+Repository
+</a>
 
-  <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
-  </a>
+</td>
+
+<td align="right">
+
+🚀 <a href="https://your-live-link.com">
+Live Demo
+</a>
+
+</td>
+</tr>
+</table>
 </p>
       <p>
 <img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
