@@ -125,33 +125,74 @@
 
 
 <h1 align="center">Projects</h1>
+</br>
 
-## 🚀 Lead Unity
+<table style="border: none; border-collapse: collapse; width: 100%;">
 
-<p align="center">
-  <img src="https://i.ibb.co.com/zW4zJkSf/Lead-unity-screen-shot.png" width="100%" />
-</p>
+  <!-- PROJECT 1 -->
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 10px;">
+   <img src="https://i.ibb.co.com/zW4zJkSf/Lead-unity-screen-shot.png" alt="Lead-unity-screen-shot" border="0">
+    </td>
+    <td width="50%" style="border: none;">
+      <h2>Lead Unity</h2>
+      <p style="font-size:16px; line-height:1.8;">
+       A project management app to manage submission, users, and different kind of settings. It's currently in use in my University. 
+      </p>
+      <p>
+        🔗 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">GitHub Repo</a>
+      </p>
+      <p>
+<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-one?style=flat-square&labelColor=000000&color=000000" />
+      </p>
+    </td>
+  </tr>
 
-A project management app to manage submissions, users, and different kinds of settings. It is currently being used in my university.
+  <!-- PROJECT 2 -->
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 10px;">
+      <img src="YOUR_PROJECT_IMAGE_URL_TWO" width="100%" alt="Project Two Preview">
+    </td>
+    <td width="50%" style="border: none;">
+      <h2>Project Name Two</h2>
+      <p style="font-size:16px; line-height:1.8;">
+        Short description of this project and the problem it solves.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/shahriaraf/project-two">GitHub Repo</a>
+      </p>
+      <p>
+<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
+      </p>
+    </td>
+  </tr>
 
-🔗 **Repository:**  
-https://github.com/shahriaraf/Leading-Unity-Admin-Panal
+  <!-- PROJECT 3 -->
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 10px;">
+<img src="https://i.ibb.co.com/p6dKRPjS/taskeo-srenshot.png" alt="taskeo-srenshot" border="0">
+    </td>
+    <td width="50%" style="border: none;">
+      <h2>Taskeo</h2>
+      <p style="font-size:16px; line-height:1.8;">
+        A full-stack web application for teams to manage projects, tasks, members, and work progress with real-time updates, role-based access control, and rich analytics.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/shahriaraf/Taskeo-Frontend">GitHub Repo</a>
+      </p>
+      <p>
+<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
+        <img src="https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
+        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
+      </p>
+    </td>
+  </tr>
 
----
-
-## 📋 Taskeo
-
-<p align="center">
-  <img src="https://i.ibb.co.com/p6dKRPjS/taskeo-srenshot.png" width="100%" />
-</p>
-
-A full-stack web application for teams to manage projects, tasks, members, and work progress with real-time updates, role-based access control, and rich analytics.
-
-🔗 **Repository:**  
-https://github.com/shahriaraf/Taskeo-Frontend
-
----
-
+</table>
 </br>
 
 
