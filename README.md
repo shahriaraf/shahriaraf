@@ -59,7 +59,7 @@
     </td>
     <!-- IMAGE RIGHT SIDE -->
     <td width="40%" align="center" style="border: none; padding: 10px; vertical-align: middle;">
-       <img align="center" src="https://i.ibb.co.com/p60w48tw/Fireproject.jpg" alt="dark brain removebg preview">
+       <img align="center" src="https://i.ibb.co.com/cX1Mtk24/Fireproject-removebg-preview.png" alt="dark brain removebg preview">
     </td>
   </tr>
 </table>
