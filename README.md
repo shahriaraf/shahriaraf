@@ -25,7 +25,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" width="40%" style="border: none; padding: 10px;">
-      <img align="center" src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" alt="dark brain removebg preview">
+      <img align="center" src="https://i.ibb.co.com/p60w48tw/Fireproject.jpg" alt="dark brain removebg preview">
     </td>
     <td width="60%" style="border: none;">
       <h2>Hey, I’m Shoumo Shahriar Araf</h2>
@@ -318,7 +318,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <h1 align="center">Contribution Graph</h1>
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)]
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 
 
