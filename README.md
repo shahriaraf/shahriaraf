@@ -160,16 +160,17 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-      <p>
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
-  &nbsp;
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/dart/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/flutter/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/firebase/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="22" />
 </p>
     </td>
   </tr>
