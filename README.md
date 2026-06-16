@@ -160,7 +160,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-<p>
+Technology ➜ <p>
   <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
@@ -251,23 +251,16 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-<p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
-
-<br>
-
-<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=ffffff" />
-
-</p>
+Technology ➜ <p>
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/jest/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/redis/ffffff" width="22" />
 </p>
     </td>
   </tr>
