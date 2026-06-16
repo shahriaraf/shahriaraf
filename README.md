@@ -162,7 +162,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-<p>Technology ➜ 
+Technology<p>
   <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
@@ -253,7 +253,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-<p>Technology ➜ 
+Technology<p>
   <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
