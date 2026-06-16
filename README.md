@@ -139,12 +139,17 @@
       <p style="font-size:16px; line-height:1.8;">
        A project management app to manage submission, users, and different kind of settings. It's currently in use in my University. 
       </p>
-      <p style="font-size:12px;>
-        📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">GitHub Repo</a>
-      </p>
-      <p style="font-size:12px;>
-       💻 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">Live View</a>
-      </p>
+     <p>
+  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  </a>
+</p>
       <p>
         <img src="https://img.shields.io/github/forks/shahriaraf/Leading-Unity-Nest-Backend?style=flat-square&labelColor=000000&color=000000" />
         <img src="https://img.shields.io/github/languages/top/shahriaraf/?style=flat-square&labelColor=000000&color=000000" />
@@ -163,8 +168,16 @@
         Short description of this project and the problem it solves.
       </p>
       <p>
-        🔗 <a href="https://github.com/shahriaraf/project-two">GitHub Repo</a>
-      </p>
+  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  </a>
+</p>
       <p>
 <img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
         <img src="https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
@@ -183,9 +196,17 @@
       <p style="font-size:16px; line-height:1.8;">
         A full-stack web application for teams to manage projects, tasks, members, and work progress with real-time updates, role-based access control, and rich analytics.
       </p>
-      <p>
-        🔗 <a href="https://github.com/shahriaraf/Taskeo-Frontend">GitHub Repo</a>
-      </p>
+     <p>
+  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  </a>
+</p>
       <p>
 <img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
         <img src="https://img.shields.io/github/forks/shahriaraf/project-three?style=flat-square&labelColor=000000&color=000000" />
