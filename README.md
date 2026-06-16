@@ -235,8 +235,8 @@
 
 
 </br>
-
-<h1 align="center"><img src="./Gemini_Generated_Image_aaj21baaj21baaj2-removebg-preview.png" width="10"  />Connect With Me</h1>
+## <img src="./Gemini_Generated_Image_aaj21baaj21baaj2-removebg-preview.png" width="10"  />
+<h1 align="center">Connect With Me</h1>
 </br>
 
 
