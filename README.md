@@ -25,7 +25,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" width="40%" style="border: none; padding: 10px;">
-      <img align="center" src="https://i.ibb.co.com/p60w48tw/Fireproject.jpg" alt="dark brain removebg preview">
+      <img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" width="90%" />
     </td>
     <td width="60%" style="border: none;">
       <h2>Hey, I’m Shoumo Shahriar Araf</h2>
@@ -59,7 +59,7 @@
     </td>
     <!-- IMAGE RIGHT SIDE -->
     <td width="40%" align="center" style="border: none; padding: 10px; vertical-align: middle;">
-      <img src="https://i.ibb.co.com/YT2Q4L7X/dark-brain-removebg-preview.png" width="90%" />
+       <img align="center" src="https://i.ibb.co.com/p60w48tw/Fireproject.jpg" alt="dark brain removebg preview">
     </td>
   </tr>
 </table>
