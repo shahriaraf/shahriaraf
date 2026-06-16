@@ -184,23 +184,21 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
       <p style="font-size:16px; line-height:1.8;">
         Short description of this project and the problem it solves.
       </p>
-      <p>
+       <p>
 <table width="100%">
 <tr>
 <td align="left">
 
-
-  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="15" />
   </a>
-
 
 </td>
 
 <td align="right">
 
-  <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  Live ➜ <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="15" />
   </a>
 
 </td>
@@ -208,10 +206,16 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
       <p>
-<img src="https://img.shields.io/github/stars/shahriaraf?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0d1117" />
-        <img src="https://img.shields.io/github/forks/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
-        <img src="https://img.shields.io/github/languages/top/shahriaraf/project-two?style=flat-square&labelColor=000000&color=000000" />
-      </p>
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
+</p>
     </td>
   </tr>
 
