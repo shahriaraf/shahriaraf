@@ -161,9 +161,16 @@
 </table>
 </p>
       <p>
-        <img src="https://img.shields.io/github/forks/shahriaraf/Leading-Unity-Nest-Backend?style=flat-square&labelColor=000000&color=000000" />
-        <img src="https://img.shields.io/github/languages/top/shahriaraf/?style=flat-square&labelColor=000000&color=000000" />
-      </p>
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
+</p>
     </td>
   </tr>
 
