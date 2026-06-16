@@ -144,24 +144,17 @@
 <tr>
 <td align="left">
 
-<p>
   <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
   </a>
-
-
-  <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
-  </a>
-</p>
 
 </td>
 
 <td align="right">
 
-🚀 <a href="https://your-live-link.com">
-Live Demo
-</a>
+  <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  </a>
 
 </td>
 </tr>
@@ -189,17 +182,19 @@ Live Demo
 <tr>
 <td align="left">
 
-📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-Repository
-</a>
+
+  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+  </a>
+
 
 </td>
 
 <td align="right">
 
-🚀 <a href="https://your-live-link.com">
-Live Demo
-</a>
+  <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  </a>
 
 </td>
 </tr>
@@ -228,17 +223,20 @@ Live Demo
 <tr>
 <td align="left">
 
-📂 <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-Repository
-</a>
+
+  <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" />
+  </a>
+
+
 
 </td>
 
 <td align="right">
 
-🚀 <a href="https://your-live-link.com">
-Live Demo
-</a>
+  <a href="https://your-live-link.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" />
+  </a>
 
 </td>
 </tr>
