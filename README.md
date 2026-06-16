@@ -80,9 +80,11 @@
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="40" />
         &nbsp;&nbsp;
+          <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="40" />
         <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/mysql/ffffff" width="40" />
+          <img src="https://cdn.simpleicons.org/redis/ffffff" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/firebase/ffffff" width="40" />
         <img src="https://cdn.simpleicons.org/prisma/ffffff" width="40" />
@@ -160,7 +162,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-Technology ➜ <p>
+<p>Technology ➜ 
   <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
@@ -251,7 +253,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-Technology ➜ <p>
+<p>Technology ➜ 
   <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
