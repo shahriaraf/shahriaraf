@@ -111,7 +111,7 @@
           <img src="https://cdn.simpleicons.org/redis" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/firebase" width="40" />
-        <img src="https://cdn.simpleicons.org/prisma" width="40" />
+        <img src="https://cdn.simpleicons.org/prisma/a0a0a0" width="40" />
         <img src="https://cdn.simpleicons.org/mongoose" width="40" />
       </p>
     </td>
