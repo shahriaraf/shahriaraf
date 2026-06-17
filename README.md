@@ -344,11 +344,11 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/shahriaraf">
+  <a href="https://www.facebook.com/shahriar.araf.3">
     <img src="https://cdn.simpleicons.org/facebook/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:shahriaraf01@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
