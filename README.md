@@ -77,42 +77,42 @@
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Frontend</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/html5/" width="40" />
+        <img src="https://cdn.simpleicons.org/html5" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/css/" width="40" />
+        <img src="https://cdn.simpleicons.org/css" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/javascript/ width="40" />
+        <img src="https://cdn.simpleicons.org/javascript width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/react/" width="40" />
+        <img src="https://cdn.simpleicons.org/react" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nextdotjs/" width="40" />
+        <img src="https://cdn.simpleicons.org/nextdotjs" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/tailwindcss/" width="40" />
+        <img src="https://cdn.simpleicons.org/tailwindcss" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/bootstrap/" width="40" />
+        <img src="https://cdn.simpleicons.org/bootstrap" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/redux/" width="40" />
+        <img src="https://cdn.simpleicons.org/redux" width="40" />
       </p>
     </td>
     <!-- BACKEND -->
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Backend</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/nodedotjs/" width="40" />
+        <img src="https://cdn.simpleicons.org/nodedotjs" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/express/" width="40" />
+        <img src="https://cdn.simpleicons.org/express" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nestjs/" width="40" />
+        <img src="https://cdn.simpleicons.org/nestjs" width="40" />
         &nbsp;&nbsp;
-          <img src="https://cdn.simpleicons.org/postgresql/" width="40" />
-        <img src="https://cdn.simpleicons.org/mongodb/" width="40" />
+          <img src="https://cdn.simpleicons.org/postgresql" width="40" />
+        <img src="https://cdn.simpleicons.org/mongodb" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/mysql/" width="40" />
-          <img src="https://cdn.simpleicons.org/redis/" width="40" />
+        <img src="https://cdn.simpleicons.org/mysql" width="40" />
+          <img src="https://cdn.simpleicons.org/redis" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/firebase/" width="40" />
-        <img src="https://cdn.simpleicons.org/prisma/" width="40" />
-        <img src="https://cdn.simpleicons.org/mongoose/" width="40" />
+        <img src="https://cdn.simpleicons.org/firebase" width="40" />
+        <img src="https://cdn.simpleicons.org/prisma" width="40" />
+        <img src="https://cdn.simpleicons.org/mongoose" width="40" />
       </p>
     </td>
 
@@ -124,22 +124,22 @@
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>DevOps</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/docker/" width="40" />
+        <img src="https://cdn.simpleicons.org/docker" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/github/" width="40" />
+        <img src="https://cdn.simpleicons.org/github" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/gitlab/" width="40" />
+        <img src="https://cdn.simpleicons.org/gitlab" width="40" />
       </p>
     </td>
     <!-- TOOLS -->
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Tools</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/figma/" width="40" />
+        <img src="https://cdn.simpleicons.org/figma" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/postman/" width="40" />
+        <img src="https://cdn.simpleicons.org/postman" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/framer/" width="40" />
+        <img src="https://cdn.simpleicons.org/framer" width="40" />
       </p>
     </td>
 
@@ -171,7 +171,7 @@
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/" width="15" />
+    <img src="https://cdn.simpleicons.org/github" width="15" />
   </a>
 
 </td>
@@ -179,7 +179,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="right">
 
   Live ➜ <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/" width="15" />
+    <img src="https://cdn.simpleicons.org/googlechrome" width="15" />
   </a>
 
 </td>
@@ -187,16 +187,16 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
 <p>
-  <img src="https://cdn.simpleicons.org/typescript/" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/" width="22" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/" width="22" />
-  <img src="https://cdn.simpleicons.org/react/" width="22" />
-  <img src="https://cdn.simpleicons.org/dart/" width="22" />
-  <img src="https://cdn.simpleicons.org/flutter/" width="22" />
-  <img src="https://cdn.simpleicons.org/nestjs/" width="22" />
-  <img src="https://cdn.simpleicons.org/firebase/" width="22" />
-  <img src="https://cdn.simpleicons.org/mongodb/" width="22" />
-  <img src="https://cdn.simpleicons.org/mongoose/" width="22" />
+  <img src="https://cdn.simpleicons.org/typescript" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="22" />
+  <img src="https://cdn.simpleicons.org/react" width="22" />
+  <img src="https://cdn.simpleicons.org/dart" width="22" />
+  <img src="https://cdn.simpleicons.org/flutter" width="22" />
+  <img src="https://cdn.simpleicons.org/nestjs" width="22" />
+  <img src="https://cdn.simpleicons.org/firebase" width="22" />
+  <img src="https://cdn.simpleicons.org/mongodb" width="22" />
+  <img src="https://cdn.simpleicons.org/mongoose" width="22" />
 </p>
     </td>
   </tr>
@@ -217,7 +217,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/" width="15" />
+    <img src="https://cdn.simpleicons.org/github" width="15" />
   </a>
 
 </td>
@@ -225,7 +225,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="right">
 
   Live ➜ <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/" width="15" />
+    <img src="https://cdn.simpleicons.org/googlechrome" width="15" />
   </a>
 
 </td>
@@ -233,15 +233,15 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
      <p>
-  <img src="https://cdn.simpleicons.org/javascript/" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/" width="22" />
-  <img src="https://cdn.simpleicons.org/firebase/" width="22" />
-  <img src="https://cdn.simpleicons.org/framer/" width="22" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/" width="22" />
-  <img src="https://cdn.simpleicons.org/socketdotio/" width="22" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/" width="22" />
-  <img src="https://cdn.simpleicons.org/googlegemini/" width="22" />
-  <img src="https://cdn.simpleicons.org/mongodb/" width="22" />
+  <img src="https://cdn.simpleicons.org/javascript" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/firebase" width="22" />
+  <img src="https://cdn.simpleicons.org/framer" width="22" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio" width="22" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/googlegemini" width="22" />
+  <img src="https://cdn.simpleicons.org/mongodb" width="22" />
 </p>
     </td>
   </tr>
@@ -262,7 +262,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/" width="15" />
+    <img src="https://cdn.simpleicons.org/github" width="15" />
   </a>
 
 </td>
@@ -270,7 +270,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="right">
 
   Live ➜ <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/" width="15" />
+    <img src="https://cdn.simpleicons.org/googlechrome" width="15" />
   </a>
 
 </td>
@@ -278,15 +278,15 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
 <p>
-  <img src="https://cdn.simpleicons.org/typescript/" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/" width="22" />
-  <img src="https://cdn.simpleicons.org/react/" width="22" />
-  <img src="https://cdn.simpleicons.org/socketdotio/" width="22" />
-  <img src="https://cdn.simpleicons.org/jest/" width="22" />
-  <img src="https://cdn.simpleicons.org/nestjs/" width="22" />
-  <img src="https://cdn.simpleicons.org/postgresql/" width="22" />
-  <img src="https://cdn.simpleicons.org/prisma/" width="22" />
-  <img src="https://cdn.simpleicons.org/redis/" width="22" />
+  <img src="https://cdn.simpleicons.org/typescript" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/react" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio" width="22" />
+  <img src="https://cdn.simpleicons.org/jest" width="22" />
+  <img src="https://cdn.simpleicons.org/nestjs" width="22" />
+  <img src="https://cdn.simpleicons.org/postgresql" width="22" />
+  <img src="https://cdn.simpleicons.org/prisma" width="22" />
+  <img src="https://cdn.simpleicons.org/redis" width="22" />
 </p>
     </td>
   </tr>
@@ -346,15 +346,15 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shahriar.araf.3">
-    <img src="https://cdn.simpleicons.org/facebook/" width="40" />
+    <img src="https://cdn.simpleicons.org/facebook" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:shahriaraf01@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/" width="40" />
+    <img src="https://cdn.simpleicons.org/gmail" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801726649175">
-    <img src="https://cdn.simpleicons.org/whatsapp/" width="40" />
+    <img src="https://cdn.simpleicons.org/whatsapp" width="40" />
   </a>
 </p>
 
