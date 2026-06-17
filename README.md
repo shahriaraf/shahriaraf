@@ -85,7 +85,7 @@
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/react" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nextdotjs/d1d5db" width="40" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/a0a0a0" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/tailwindcss" width="40" />
         &nbsp;&nbsp;
@@ -126,7 +126,7 @@
       <p>
         <img src="https://cdn.simpleicons.org/docker" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/github" width="40" />
+        <img src="https://cdn.simpleicons.org/github/a0a0a0" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/gitlab" width="40" />
       </p>
@@ -171,7 +171,7 @@
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github" width="15" />
+    <img src="https://cdn.simpleicons.org/github/a0a0a0" width="15" />
   </a>
 
 </td>
@@ -188,7 +188,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </p>
 <p>
   <img src="https://cdn.simpleicons.org/typescript" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss" width="22" />
   <img src="https://cdn.simpleicons.org/react" width="22" />
   <img src="https://cdn.simpleicons.org/dart" width="22" />
@@ -217,7 +217,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Aariyan-Sourching-Client">
-    <img src="https://cdn.simpleicons.org/github" width="15" />
+    <img src="https://cdn.simpleicons.org/github/a0a0a0" width="15" />
   </a>
 
 </td>
@@ -234,7 +234,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Aariyan-Sourching-Client">
 </p>
      <p>
   <img src="https://cdn.simpleicons.org/javascript" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/firebase" width="22" />
   <img src="https://cdn.simpleicons.org/framer" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss" width="22" />
@@ -262,7 +262,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Aariyan-Sourching-Client">
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Taskeo-Frontend">
-    <img src="https://cdn.simpleicons.org/github" width="15" />
+    <img src="https://cdn.simpleicons.org/github/a0a0a0" width="15" />
   </a>
 
 </td>
@@ -279,13 +279,13 @@ Code ➜ <a href="https://github.com/shahriaraf/Taskeo-Frontend">
 </p>
 <p>
   <img src="https://cdn.simpleicons.org/typescript" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/react" width="22" />
   <img src="https://cdn.simpleicons.org/socketdotio" width="22" />
   <img src="https://cdn.simpleicons.org/jest" width="22" />
   <img src="https://cdn.simpleicons.org/nestjs" width="22" />
   <img src="https://cdn.simpleicons.org/postgresql" width="22" />
-  <img src="https://cdn.simpleicons.org/prisma" width="22" />
+  <img src="https://cdn.simpleicons.org/prisma/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/redis" width="22" />
 </p>
     </td>
