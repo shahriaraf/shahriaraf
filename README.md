@@ -318,7 +318,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Taskeo-Frontend">
 <h1 align="center">Contribution Graph</h1>
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=6e7681&line=58a6ff&point=58a6ff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=6e7681&line=3fb950&point=3fb950&area=true&hide_border=true)
 
 
 
