@@ -77,42 +77,42 @@
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Frontend</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/html5/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/css/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/css/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/javascript/ width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/react/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/bootstrap/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/redux/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/redux/" width="40" />
       </p>
     </td>
     <!-- BACKEND -->
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Backend</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/express/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/express/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/nestjs/" width="40" />
         &nbsp;&nbsp;
-          <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="40" />
-        <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="40" />
+          <img src="https://cdn.simpleicons.org/postgresql/" width="40" />
+        <img src="https://cdn.simpleicons.org/mongodb/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/mysql/ffffff" width="40" />
-          <img src="https://cdn.simpleicons.org/redis/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/mysql/" width="40" />
+          <img src="https://cdn.simpleicons.org/redis/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/firebase/ffffff" width="40" />
-        <img src="https://cdn.simpleicons.org/prisma/ffffff" width="40" />
-        <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/firebase/" width="40" />
+        <img src="https://cdn.simpleicons.org/prisma/" width="40" />
+        <img src="https://cdn.simpleicons.org/mongoose/" width="40" />
       </p>
     </td>
 
@@ -124,22 +124,22 @@
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>DevOps</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/docker/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/docker/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/github/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/github/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/gitlab/" width="40" />
       </p>
     </td>
     <!-- TOOLS -->
     <td width="50%" align="center" style="vertical-align:top; padding:20px;">
       <h2>Tools</h2>
       <p>
-        <img src="https://cdn.simpleicons.org/figma/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/figma/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/postman/" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/framer/ffffff" width="40" />
+        <img src="https://cdn.simpleicons.org/framer/" width="40" />
       </p>
     </td>
 
@@ -171,7 +171,7 @@
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="15" />
+    <img src="https://cdn.simpleicons.org/github/" width="15" />
   </a>
 
 </td>
@@ -179,7 +179,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="right">
 
   Live ➜ <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="15" />
+    <img src="https://cdn.simpleicons.org/googlechrome/" width="15" />
   </a>
 
 </td>
@@ -187,16 +187,16 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
 <p>
-  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/dart/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/flutter/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/firebase/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/mongoose/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/typescript/" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/" width="22" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/" width="22" />
+  <img src="https://cdn.simpleicons.org/react/" width="22" />
+  <img src="https://cdn.simpleicons.org/dart/" width="22" />
+  <img src="https://cdn.simpleicons.org/flutter/" width="22" />
+  <img src="https://cdn.simpleicons.org/nestjs/" width="22" />
+  <img src="https://cdn.simpleicons.org/firebase/" width="22" />
+  <img src="https://cdn.simpleicons.org/mongodb/" width="22" />
+  <img src="https://cdn.simpleicons.org/mongoose/" width="22" />
 </p>
     </td>
   </tr>
@@ -217,7 +217,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="15" />
+    <img src="https://cdn.simpleicons.org/github/" width="15" />
   </a>
 
 </td>
@@ -225,7 +225,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="right">
 
   Live ➜ <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="15" />
+    <img src="https://cdn.simpleicons.org/googlechrome/" width="15" />
   </a>
 
 </td>
@@ -233,15 +233,15 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
      <p>
-  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/firebase/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/framer/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/googlegemini/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/javascript/" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/" width="22" />
+  <img src="https://cdn.simpleicons.org/firebase/" width="22" />
+  <img src="https://cdn.simpleicons.org/framer/" width="22" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio/" width="22" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/" width="22" />
+  <img src="https://cdn.simpleicons.org/googlegemini/" width="22" />
+  <img src="https://cdn.simpleicons.org/mongodb/" width="22" />
 </p>
     </td>
   </tr>
@@ -262,7 +262,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="left">
 
 Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="15" />
+    <img src="https://cdn.simpleicons.org/github/" width="15" />
   </a>
 
 </td>
@@ -270,7 +270,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <td align="right">
 
   Live ➜ <a href="https://your-live-link.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="15" />
+    <img src="https://cdn.simpleicons.org/googlechrome/" width="15" />
   </a>
 
 </td>
@@ -278,15 +278,15 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </table>
 </p>
 <p>
-  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/jest/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/redis/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/typescript/" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/" width="22" />
+  <img src="https://cdn.simpleicons.org/react/" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio/" width="22" />
+  <img src="https://cdn.simpleicons.org/jest/" width="22" />
+  <img src="https://cdn.simpleicons.org/nestjs/" width="22" />
+  <img src="https://cdn.simpleicons.org/postgresql/" width="22" />
+  <img src="https://cdn.simpleicons.org/prisma/" width="22" />
+  <img src="https://cdn.simpleicons.org/redis/" width="22" />
 </p>
     </td>
   </tr>
@@ -303,10 +303,10 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=00000000&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf" alt="Most Used Languages" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=shahriaraf&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=00000000" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=shahriaraf" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -318,7 +318,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <h1 align="center">Contribution Graph</h1>
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&area=true&hide_border=true)
 
 
 
@@ -346,15 +346,15 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shahriar.araf.3">
-    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="40" />
+    <img src="https://cdn.simpleicons.org/facebook/" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:shahriaraf01@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" />
+    <img src="https://cdn.simpleicons.org/gmail/" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801726649175">
-    <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="40" />
+    <img src="https://cdn.simpleicons.org/whatsapp/" width="40" />
   </a>
 </p>
 
