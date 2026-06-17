@@ -85,7 +85,7 @@
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/react" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nextdotjs" width="40" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/d1d5db" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/tailwindcss" width="40" />
         &nbsp;&nbsp;
