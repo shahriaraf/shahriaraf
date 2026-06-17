@@ -204,7 +204,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
   <!-- PROJECT 2 -->
   <tr style="border: none;">
     <td width="50%" style="border: none; padding: 10px;">
-      <img src="YOUR_PROJECT_IMAGE_URL_TWO" width="100%" alt="Project Two Preview">
+<img src="https://i.ibb.co.com/6RrHHyQt/aarryan.png" alt="aarryan" border="0">
     </td>
     <td width="50%" style="border: none;">
       <h2>Aaryan</h2>
