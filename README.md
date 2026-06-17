@@ -341,7 +341,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shoumo-shahriar-araf">
-<img src="https://i.ibb.co.com/JTrPg49/linkedin-svgrepo-com.jpg" alt="linkedin-svgrepo-com" border="0" width="40">
+<img src="./linkedin-svgrepo-com.svg" alt="linkedin-svgrepo-com" border="0" width="40">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shahriar.araf.3">
