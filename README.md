@@ -340,8 +340,8 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 
 
 <p align="center">
-  <a href="https://github.com/shahriaraf">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" />
+  <a href="https://www.linkedin.com/in/shoumo-shahriar-araf">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shahriar.araf.3">
@@ -352,7 +352,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/8801XXXXXXXXX">
+  <a href="https://wa.me/8801726649175">
     <img src="https://cdn.simpleicons.org/whatsapp/ffffff" width="40" />
   </a>
 </p>
