@@ -236,7 +236,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/firebase/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/framermotion/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/framer/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="22" />
