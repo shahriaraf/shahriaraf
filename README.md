@@ -303,7 +303,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Taskeo-Frontend">
 <table>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&hide_border=true&bg_color=00000000&title_color=3fb950" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaraf&layout=compact&hide_border=true&bg_color=00000000&title_color=a0a0a0" alt="Most Used Languages" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=shahriaraf&background=00000000&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=6e7681&currStreakNum=3fb950&sideNums=6e7681&dates=6e7681&border=00000000" />
