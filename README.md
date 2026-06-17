@@ -209,7 +209,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
     <td width="50%" style="border: none;">
       <h2>Aaryan</h2>
       <p style="font-size:16px; line-height:1.8;">
-        Short description of this project and the problem it solves.
+        B2B sourcing platform.
       </p>
        <p>
 <table width="100%">
@@ -242,7 +242,6 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
   <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/googlegemini/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="22" />
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="22" />
 </p>
     </td>
   </tr>
