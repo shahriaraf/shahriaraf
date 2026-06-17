@@ -178,7 +178,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 
 <td align="right">
 
-  Live ➜ <a href="https://your-live-link.com">
+  Live ➜ <a href="https://lead-unity-admin-panel.vercel.app">
     <img src="https://cdn.simpleicons.org/googlechrome" width="15" />
   </a>
 
@@ -216,7 +216,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <tr>
 <td align="left">
 
-Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+Code ➜ <a href="https://github.com/shahriaraf/Aariyan-Sourching-Client">
     <img src="https://cdn.simpleicons.org/github" width="15" />
   </a>
 
@@ -224,7 +224,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 
 <td align="right">
 
-  Live ➜ <a href="https://your-live-link.com">
+  Live ➜ <a href="https://www.aaryansourcing.com">
     <img src="https://cdn.simpleicons.org/googlechrome" width="15" />
   </a>
 
@@ -261,7 +261,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <tr>
 <td align="left">
 
-Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
+Code ➜ <a href="https://github.com/shahriaraf/Taskeo-Frontend">
     <img src="https://cdn.simpleicons.org/github" width="15" />
   </a>
 
@@ -269,7 +269,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 
 <td align="right">
 
-  Live ➜ <a href="https://your-live-link.com">
+  Live ➜ <a href="https://taskeo-blue.vercel.app/dashboard">
     <img src="https://cdn.simpleicons.org/googlechrome" width="15" />
   </a>
 
@@ -318,7 +318,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 <h1 align="center">Contribution Graph</h1>
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriaraf&bg_color=00000000&color=6e7681&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
 
 
