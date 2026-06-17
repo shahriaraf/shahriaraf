@@ -207,7 +207,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
       <img src="YOUR_PROJECT_IMAGE_URL_TWO" width="100%" alt="Project Two Preview">
     </td>
     <td width="50%" style="border: none;">
-      <h2>Project Name Two</h2>
+      <h2>Aaryan</h2>
       <p style="font-size:16px; line-height:1.8;">
         Short description of this project and the problem it solves.
       </p>
@@ -232,16 +232,17 @@ Code ➜ <a href="https://github.com/shahriaraf/Leading-Unity-Admin-Panal">
 </tr>
 </table>
 </p>
-      <p>
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="22" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="22" />
-  &nbsp;
+     <p>
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/firebase/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/framermotion/ffffff" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/googlegemini/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="22" />
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="22" />
 </p>
     </td>
   </tr>
