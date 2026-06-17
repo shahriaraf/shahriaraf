@@ -100,7 +100,7 @@
       <p>
         <img src="https://cdn.simpleicons.org/nodedotjs" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/express" width="40" />
+        <img src="https://cdn.simpleicons.org/express/a0a0a0" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/nestjs" width="40" />
         &nbsp;&nbsp;
@@ -238,7 +238,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Aariyan-Sourching-Client">
   <img src="https://cdn.simpleicons.org/firebase" width="22" />
   <img src="https://cdn.simpleicons.org/framer" width="22" />
   <img src="https://cdn.simpleicons.org/tailwindcss" width="22" />
-  <img src="https://cdn.simpleicons.org/socketdotio" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/nodedotjs" width="22" />
   <img src="https://cdn.simpleicons.org/googlegemini" width="22" />
   <img src="https://cdn.simpleicons.org/mongodb" width="22" />
@@ -281,7 +281,7 @@ Code ➜ <a href="https://github.com/shahriaraf/Taskeo-Frontend">
   <img src="https://cdn.simpleicons.org/typescript" width="22" />
   <img src="https://cdn.simpleicons.org/nextdotjs/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/react" width="22" />
-  <img src="https://cdn.simpleicons.org/socketdotio" width="22" />
+  <img src="https://cdn.simpleicons.org/socketdotio/a0a0a0" width="22" />
   <img src="https://cdn.simpleicons.org/jest" width="22" />
   <img src="https://cdn.simpleicons.org/nestjs" width="22" />
   <img src="https://cdn.simpleicons.org/postgresql" width="22" />
