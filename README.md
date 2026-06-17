@@ -81,7 +81,7 @@
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/css" width="40" />
         &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/javascript width="40" />
+        <img src="https://cdn.simpleicons.org/javascript" width="40" />
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/react" width="40" />
         &nbsp;&nbsp;
